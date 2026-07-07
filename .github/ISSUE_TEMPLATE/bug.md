@@ -12,24 +12,16 @@ Which app is this about?
 
 ## What happened?
 
-A clear description of the bug.
+Describe the issue step by step...
 
-## Steps to reproduce
+## What did you expect?
 
-1. 
-2. 
-3. 
+What should have happened instead?
 
-## Expected behavior
+## Screen
 
-What you expected to happen instead.
+Where did this happen?
 
-## Screenshots
+## Additional notes
 
-If applicable.
-
-## Environment
-
-- OS:
-- Browser (if applicable):
-- Version:
+Any other details you'd like to share...
