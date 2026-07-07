@@ -6,6 +6,10 @@ labels: bug
 assignees: ''
 ---
 
+## App
+
+Which app is this about?
+
 ## What happened?
 
 A clear description of the bug.
