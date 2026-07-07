@@ -1,15 +1,19 @@
 ---
 name: General
-about: General discussion or question
-title: ""
-labels: ''
+about: General feedback, questions, or comments
+title: "[General] "
+labels: general
 assignees: ''
 ---
 
-## App
+**Category:** General
+**App:**
+**Version:**
+**Device:**
+**Screen:**
+**Theme:**
+**Locale:**
+**Storage:**
+**Network:**
 
-Which app is this about?
-
-## What's on your mind?
-
-Describe your question, idea, or topic.
+## Message
