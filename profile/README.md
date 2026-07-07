@@ -12,7 +12,7 @@ We will imagine a better world and just build it, one app at a time.
 
 *Do unto others as you would have them do unto you.*
 
-This is a guiding principle for us where the es*hitification grows constantly.
+This is a guiding principle for us where the es*hitification grows constantly we want to be different. 
 
 ## What we stand for!
 
