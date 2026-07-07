@@ -1,14 +1,20 @@
 ---
 name: Bug
-about: Report a bug
-title: "[BUG] "
+about: Bug reports with structured reproduction info
+title: "[Bug] "
 labels: bug
 assignees: ''
 ---
 
-## App
-
-Which app is this about?
+**Category:** Bug
+**App:**
+**Version:**
+**Device:**
+**Screen:**
+**Theme:**
+**Locale:**
+**Storage:**
+**Network:**
 
 ## What happened?
 
@@ -18,9 +24,7 @@ Describe the issue step by step...
 
 What should have happened instead?
 
-## Screen
-
-Where did this happen?
+**Screen:** Scanner | Settings | About | Other
 
 ## Additional notes
 
