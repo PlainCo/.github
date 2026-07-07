@@ -1,15 +1,19 @@
 ---
 name: Opinion
-about: Share your thoughts or feedback
-title: "[OPINION] "
+about: User opinions on features, design, or direction
+title: "[Opinion] "
 labels: opinion
 assignees: ''
 ---
 
-## App
+**Category:** Opinion
+**App:**
+**Version:**
+**Device:**
+**Screen:**
+**Theme:**
+**Locale:**
+**Storage:**
+**Network:**
 
-Which app is this about?
-
-## Your opinion
-
-What do you think? What would you change?
+## Message
