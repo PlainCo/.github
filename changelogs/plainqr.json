@@ -1,0 +1,168 @@
+{
+  "versions": [
+    {
+      "version": "0.4",
+      "en": [
+        "22 languages — PlainQR now speaks your language. Pick yours in system settings.",
+        "System theme — light, dark, or follow your device automatically.",
+        "Rate Us — tap the star in the menu to leave a review on the Play Store.",
+        "What's New — you're reading it.",
+        "View feedback on GitHub — tap any submission to see the issue status."
+      ],
+      "ro": [
+        "22 de limbi — PlainQR vorbește limba ta. Alege din setările sistemului.",
+        "Temă de sistem — luminoasă, întunecată sau automat, după dispozitiv.",
+        "Evaluează-ne — apasă pe steluța din meniu ca să lași un review pe Play Store.",
+        "Ce e Nou — citești chiar acum.",
+        "Vezi feedback-ul pe GitHub — apasă pe orice sesizare ca să vezi statusul."
+      ],
+      "fr": [
+        "22 langues — PlainQR parle désormais votre langue. Choisissez-la dans les paramètres système.",
+        "Thème système — clair, sombre ou suit automatiquement votre appareil.",
+        "Évaluez-nous — appuyez sur l'étoile dans le menu pour laisser un avis sur le Play Store.",
+        "Nouveautés — vous êtes en train de les lire.",
+        "Voir les retours sur GitHub — appuyez sur une soumission pour voir le statut de l'issue."
+      ],
+      "de": [
+        "22 Sprachen — PlainQR spricht jetzt Ihre Sprache. Wählen Sie sie in den Systemeinstellungen aus.",
+        "System-Theme — hell, dunkel oder automatisch Ihrem Gerät folgen.",
+        "Bewerten Sie uns — tippen Sie auf den Stern im Menü, um eine Bewertung im Play Store zu hinterlassen.",
+        "Neuigkeiten — Sie lesen sie gerade.",
+        "Feedback auf GitHub ansehen — tippen Sie auf eine Einreichung, um den Issue-Status zu sehen."
+      ],
+      "es": [
+        "22 idiomas — PlainQR ahora habla tu idioma. Elígelo en la configuración del sistema.",
+        "Tema del sistema — claro, oscuro o siguiendo automáticamente tu dispositivo.",
+        "Valóranos — toca la estrella en el menú para dejar una reseña en Play Store.",
+        "Novedades — las estás leyendo.",
+        "Ver comentarios en GitHub — toca una publicación para ver el estado del issue."
+      ],
+      "it": [
+        "22 lingue — PlainQR ora parla la tua lingua. Sceglila nelle impostazioni di sistema.",
+        "Tema di sistema — chiaro, scuro o seguendo automaticamente il tuo dispositivo.",
+        "Valutaci — tocca la stella nel menu per lasciare una recensione sul Play Store.",
+        "Novità — le stai leggendo.",
+        "Vedi i feedback su GitHub — tocca una pubblicazione per vedere lo stato dell'issue."
+      ],
+      "pt": [
+        "22 idiomas — PlainQR agora fala a sua língua. Escolha-a nas configurações do sistema.",
+        "Tema do sistema — claro, escuro ou seguindo automaticamente o seu dispositivo.",
+        "Avalie-nos — toque na estrela no menu para deixar uma avaliação na Play Store.",
+        "Novidades — você está lendo agora.",
+        "Ver feedback no GitHub — toque em uma submissão para ver o status da issue."
+      ],
+      "ru": [
+        "22 языка — PlainQR теперь говорит на вашем языке. Выберите его в настройках системы.",
+        "Системная тема — светлая, тёмная или автоматическое следование за устройством.",
+        "Оцените нас — нажмите на звезду в меню, чтобы оставить отзыв в Play Store.",
+        "Что нового — вы это читаете.",
+        "Посмотреть отзывы на GitHub — нажмите на отправку, чтобы увидеть статус проблемы."
+      ],
+      "pl": [
+        "22 języki — PlainQR teraz mówi Twoim językiem. Wybierz go w ustawieniach systemowych.",
+        "Motyw systemowy — jasny, ciemny lub automatycznie dopasowujący się do urządzenia.",
+        "Oceń nas — dotknij gwiazdki w menu, aby zostawić recenzję w Play Store.",
+        "Co nowego — właśnie to czytasz.",
+        "Zobacz informacje zwrotne na GitHub — dotknij zgłoszenia, aby zobaczyć status problemu."
+      ],
+      "nl": [
+        "22 talen — PlainQR spreekt nu jouw taal. Kies deze in de systeeminstellingen.",
+        "Systeemthema — licht, donker of automatisch je apparaat volgen.",
+        "Beoordeel ons — tik op de ster in het menu om een beoordeling achter te laten in de Play Store.",
+        "Nieuws — je leest het nu.",
+        "Bekijk feedback op GitHub — tik op een inzending om de issuestatus te zien."
+      ],
+      "tr": [
+        "22 dil — PlainQR artık sizin dilinizi konuşuyor. Sistem ayarlarından dilinizi seçin.",
+        "Sistem teması — açık, koyu veya cihazınızı otomatik olarak takip etsin.",
+        "Bizi değerlendirin — menüdeki yıldıza dokunarak Play Store'da bir yorum bırakın.",
+        "Yenilikler — bunu şu an okuyorsunuz.",
+        "GitHub'da geri bildirimi görüntüle — bir gönderiye dokunarak sorun durumunu görün."
+      ],
+      "uk": [
+        "22 мови — PlainQR тепер розмовляє вашою мовою. Оберіть її в налаштуваннях системи.",
+        "Системна тема — світла, темна або автоматичне слідування за пристроєм.",
+        "Оцініть нас — натисніть на зірку в меню, щоб залишити відгук у Play Store.",
+        "Що нового — ви це зараз читаєте.",
+        "Переглянути відгуки на GitHub — натисніть на публікацію, щоб побачити статус проблеми."
+      ],
+      "ar": [
+        "22 لغة — PlainQR الآن يتحدث لغتك. اختر لغتك من إعدادات النظام.",
+        "سمة النظام — فاتح، أو داكن، أو يتبع جهازك تلقائيًا.",
+        "قيّمنا — اضغط على النجمة في القائمة لتترك تقييمًا على متجر التطبيقات.",
+        "ما الجديد — أنت تقرأه الآن.",
+        "عرض الملاحظات على GitHub — اضغط على أي طلب لحالة issue."
+      ],
+      "fa": [
+        "۲۲ زبان — PlainQR حالا به زبان شما صحبت می‌کند. زبان خود را در تنظیمات سیستم انتخاب کنید.",
+        "پوسته سیستم — روشن، تاریک، یا پیروی خودکار از دستگاه شما.",
+        "امتیاز دهید — روی ستاره در منوی کلیک کنید تا در فروشگاه Play نظر بگذارید.",
+        "چه خبر — در حال خواندن آن هستید.",
+        "مشاهده بازخورد در GitHub — روی هر درخواست کلیک کنید تا وضعیت issue را ببینید."
+      ],
+      "hi": [
+        "22 भाषाएँ — PlainQR अब आपकी भाषा बोलता है। सिस्टम सेटिंग्स में अपनी भाषा चुनें।",
+        "सिस्टम थीम — लाइट, डार्क, या अपने डिवाइस का अनुसरण स्वचालित रूप से करें।",
+        "हमें रेट करें — Play Store पर समीक्षा छोड़ने के लिए मेनू में स्टार पर टैप करें।",
+        "नया क्या है — आप इसे पढ़ रहे हैं।",
+        "GitHub पर फीडबैक देखें — issue की स्थिति देखने के लिए किसी भी सबमिशन पर टैप करें।"
+      ],
+      "bn": [
+        "২২টি ভাষা — PlainQR এখন আপনার ভাষায় কথা বলে। সিস্টেম সেটিংসে আপনার ভাষা বেছে নিন।",
+        "সিস্টেম থিম — লাইট, ডার্ক, বা আপনার ডিভাইসের সাথে স্বয়ংক্রিয়ভাবে অনুসরণ করুন।",
+        "আমাদের রেট করুন — Play Store-এ রিভিউ দিতে মেনুতে তারকায় ট্যাপ করুন।",
+        "নতুন কী — আপনি এটি পড়ছেন।",
+        "GitHub-এ ফিডব্যাক দেখুন — issue স্ট্যাটাস দেখতে যেকোনো সাবমিশনে ট্যাপ করুন।"
+      ],
+      "ur": [
+        "22 زبانیں — PlainQR اب آپ کی زبان بولتا ہے۔ سسٹم سیٹنگز میں اپنی زبان منتخب کریں۔",
+        "سسٹم تھیم — لائٹ، ڈارک، یا اپنے ڈیوائس کی خودکار پیروی کریں۔",
+        "ہمیں ریٹ کریں — Play Store پر جائزہ چھوڑنے کے لیے مینو میں ستارے پر ٹیپ کریں۔",
+        "نئیاں کیا ہیں — آپ اسے پڑھ رہے ہیں۔",
+        "GitHub پر فیڈبیک دیکھیں — issue کی حالت دیکھنے کے لیے کسی بھی سبمیشن پر ٹیپ کریں۔"
+      ],
+      "ja": [
+        "22言語 — PlainQRは今、あなたの言語を話します。システム設定で選んでください。",
+        "システムテーマ — ライト、ダーク、またはデバイスに自動的に従います。",
+        "評価する — Play Storeでレビューを残すにはメニューの星をタップしてください。",
+        "新機能 — 今読んでいるものです。",
+        "GitHubでフィードバックを見る — issueのステータスを確認するには提出物をタップしてください。"
+      ],
+      "ko": [
+        "22개 언어 — PlainQR가 이제 귀하의 언어로 작동합니다. 시스템 설정에서 선택하세요.",
+        "시스템 테마 — 라이트, 다크, 또는 기기 설정을 자동으로 따릅니다.",
+        "평가하기 — Play Store에 리뷰를 남기려면 메뉴의 별을 탭하세요.",
+        "새로운 기능 — 지금 읽고 계신 내용입니다.",
+        "GitHub에서 피드백 보기 — issue 상태를 보려면 제출물을 탭하세요."
+      ],
+      "zh": [
+        "22种语言 — PlainQR 现在支持您的语言。在系统设置中选择。",
+        "系统主题 — 浅色、深色，或自动跟随您的设备。",
+        "为我们评分 — 在菜单中点击星标，在 Play Store 上留下评论。",
+        "更新内容 — 您正在阅读。",
+        "在 GitHub 上查看反馈 — 点击任何提交查看 issue 状态。"
+      ],
+      "vi": [
+        "22 ngôn ngữ — Bây giờ PlainQR nói ngôn ngữ của bạn. Chọn trong cài đặt hệ thống.",
+        "Chủ đề hệ thống — sáng, tối, hoặc tự động theo thiết bị của bạn.",
+        "Đánh giá chúng tôi — nhấn vào ngôi sao trong menu để để lại đánh giá trên Play Store.",
+        "Có gì mới — bạn đang đọc nó.",
+        "Xem phản hồi trên GitHub — nhấn vào bất kỳ nội dung gửi nào để xem trạng thái issue."
+      ],
+      "th": [
+        "22 ภาษา — PlainQR พูดภาษาของคุณแล้ว เลือกภาษาในการตั้งค่าระบบ",
+        "ธีมระบบ — สว่าง มืด หรือติดตามอุปกรณ์ของคุณโดยอัตโนมัติ",
+        "ให้คะแนนเรา — แตะที่ดาวในเมนูเพื่อรีวิวบน Play Store",
+        "สิ่งใหม่ — คุณกำลังอ่านอยู่",
+        "ดูความคิดเห็นบน GitHub — แตะที่การส่งใดก็ได้เพื่อดูสถานะ issue"
+      ],
+      "id": [
+        "22 bahasa — PlainQR sekarang berbicara bahasa Anda. Pilih di pengaturan sistem.",
+        "Tema sistem — terang, gelap, atau ikuti perangkat Anda secara otomatis.",
+        "Beri Nilai Kami — ketuk bintang di menu untuk memberikan ulasan di Play Store.",
+        "Yang Baru — Anda sedang membacanya.",
+        "Lihat umpan balik di GitHub — ketuk pengiriman mana pun untuk melihat status issue."
+      ]
+    }
+  ]
+}
