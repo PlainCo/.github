@@ -1,7 +1,7 @@
 {
   "versions": [
     {
-      "version": "0.5",
+      "version": "0.4",
       "en": [
         "Zoom controls — tap + and − to zoom in and out on the scanner, no pinch needed.",
         "Better pinch-to-zoom — smoother, more reliable gesture handling.",
