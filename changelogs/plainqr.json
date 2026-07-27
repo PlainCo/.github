@@ -1,6 +1,147 @@
 {
   "versions": [
     {
+      "version": "0.0.4+153",
+      "en": [
+        "Scan freeze-frame — the scanned frame stays visible instead of going black. Works for both camera and gallery scans.",
+        "Camera stays on main lens — no more accidental switching to the ultrawide camera on multi-lens phones.",
+        "Smoother zoom — finer 0.05× steps and auto-calibration to your device's camera for predictable zoom feel.",
+        "Bigger dismiss button — larger, easier-to-tap X with a circular background to close scan results."
+      ],
+      "ro": [
+        "Cadru înghețat la scanare — cadrul scanat rămâne vizibil în loc să devină negru. Funcționează atât pentru cameră, cât și pentru galerie.",
+        "Camera rămâne pe lentila principală — fără comutări accidentale la camera ultrawide pe telefoanele cu mai multe lentile.",
+        "Zoom mai fin — pași de 0.05× și calibrare automată la camera dispozitivului pentru o senzație de zoom previzibilă.",
+        "Buton de închidere mai mare — X mai mare, mai ușor de atins, cu fundal circular pentru a închide rezultatele scanării."
+      ],
+      "fr": [
+        "Image figée au scan — l'image scannée reste visible au lieu de passer au noir. Fonctionne pour les scans caméra et galerie.",
+        "La caméra reste sur l'objectif principal — plus de basculement accidentel vers l'ultra grand-angle sur les téléphones multi-objectifs.",
+        "Zoom plus fluide — pas de 0.05× et calibrage automatique à l'appareil photo de votre appareil pour un zoom prévisible.",
+        "Bouton de fermeture plus grand — X plus grand, plus facile à toucher, avec fond circulaire pour fermer les résultats de scan."
+      ],
+      "de": [
+        "Scan-Standbild — das gescannte Bild bleibt sichtbar, statt schwarz zu werden. Funktioniert für Kamera- und Galerie-Scans.",
+        "Kamera bleibt auf der Hauptlinse — kein versehentliches Umschalten auf die Ultraweitwinkelkamera bei Multi-Linsen-Handys.",
+        "Sanfterer Zoom — feinere 0.05×-Schritte und automatische Kalibrierung auf Ihre Gerätekamera für vorhersehbares Zoomgefühl.",
+        "Größerer Schließen-Button — größeres, leichter zu tippendes X mit kreisförmigem Hintergrund zum Schließen der Scan-Ergebnisse."
+      ],
+      "es": [
+        "Congelación de imagen al escanear — el fotograma escaneado permanece visible en lugar de volverse negro. Funciona para escaneos de cámara y galería.",
+        "La cámara se mantiene en la lente principal — sin cambios accidentales a la cámara ultra gran angular en teléfonos con múltiples lentes.",
+        "Zoom más suave — pasos más finos de 0.05× y calibración automática a la cámara de su dispositivo para una sensación de zoom predecible.",
+        "Botón de cierre más grande — X más grande y fácil de tocar, con fondo circular para cerrar los resultados del escaneo."
+      ],
+      "it": [
+        "Fermo immagine alla scansione — il fotogramma scansionato rimane visibile invece di diventare nero. Funziona sia per scansioni da fotocamera che da galleria.",
+        "La fotocamera rimane sulla lente principale — nessun passaggio accidentale alla fotocamera ultrawide su telefoni multi-lente.",
+        "Zoom più fluido — passi più fini da 0.05× e calibrazione automatica alla fotocamera del dispositivo per una sensazione di zoom prevedibile.",
+        "Pulsante di chiusura più grande — X più grande, più facile da toccare, con sfondo circolare per chiudere i risultati della scansione."
+      ],
+      "pt": [
+        "Congelamento de imagem ao digitalizar — o quadro digitalizado permanece visível em vez de ficar preto. Funciona para digitalizações da câmera e da galeria.",
+        "Câmera permanece na lente principal — sem troca acidental para a câmera ultrawide em telefones com múltiplas lentes.",
+        "Zoom mais suave — passos mais finos de 0.05× e calibração automática para a câmera do dispositivo para uma sensação de zoom previsível.",
+        "Botão de fechar maior — X maior e mais fácil de tocar, com fundo circular para fechar os resultados da digitalização."
+      ],
+      "ru": [
+        "Застывший кадр при сканировании — отсканированный кадр остаётся видимым вместо чёрного экрана. Работает для сканирования с камеры и из галереи.",
+        "Камера остаётся на основной линзе — больше никаких случайных переключений на сверхширокоугольную камеру на телефонах с несколькими линзами.",
+        "Более плавный зум — шаги 0.05× и автокалибровка под камеру вашего устройства для предсказуемого зума.",
+        "Кнопка закрытия крупнее — увеличенный X с круглым фоном, легче нажимать для закрытия результатов сканирования."
+      ],
+      "pl": [
+        "Zatrzymana klatka skanowania — zeskanowana klatka pozostaje widoczna zamiast czerni. Działa dla skanów z aparatu i galerii.",
+        "Aparat pozostaje na głównej soczewce — koniec z przypadkowym przełączaniem na aparat ultraszerokokątny w telefonach z wieloma soczewkami.",
+        "Płynniejszy zoom — drobniejsze kroki 0.05× i automatyczna kalibracja do aparatu urządzenia dla przewidywalnego zoomu.",
+        "Większy przycisk zamykania — większy, łatwiejszy do dotknięcia X z okrągłym tłem do zamykania wyników skanowania."
+      ],
+      "nl": [
+        "Scan-bevriezing — het gescande beeld blijft zichtbaar in plaats van zwart te worden. Werkt voor zowel camera- als galerijscans.",
+        "Camera blijft op de hoofdlens — geen onbedoeld wisselen naar de ultrawide camera op telefoons met meerdere lenzen.",
+        "Vloeiendere zoom — fijnere stappen van 0.05× en automatische kalibratie naar de camera van uw apparaat voor voorspelbaar zoomen.",
+        "Grotere sluitknop — grotere, makkelijker aan te tikken X met een cirkelvormige achtergrond om scanresultaten te sluiten."
+      ],
+      "tr": [
+        "Tarama dondurma — taranan kare siyah olmak yerine görünür kalır. Hem kamera hem galeri taramaları için çalışır.",
+        "Kamera ana lenste kalır — çok lensli telefonlarda ultra geniş kameraya kazara geçiş yok.",
+        "Daha pürüzsüz zoom — 0.05× daha ince adımlar ve öngörülebilir zoom hissi için cihazınızın kamerasına otomatik kalibrasyon.",
+        "Daha büyük kapatma düğmesi — tarama sonuçlarını kapatmak için dairesel arka planlı daha büyük, dokunması daha kolay X."
+      ],
+      "ar": [
+        "تجميد إطار المسح — يظل الإطار الممسوح مرئيًا بدلاً من أن يصبح أسود. يعمل لكل من مسح الكاميرا والمعرض.",
+        "تبقى الكاميرا على العدسة الرئيسية — لا مزيد من التبديل العرضي إلى الكاميرا فائقة الاتساع على الهواتف متعددة العدسات.",
+        "تكبير أكثر سلاسة — خطوات أدق بمقدار 0.05× ومعايرة تلقائية لكاميرا جهازك للحصول على إحساس تكبير متوقع.",
+        "زر إغلاق أكبر — X أكبر وأسهل للنقر مع خلفية دائرية لإغلاق نتائج المسح."
+      ],
+      "fa": [
+        "ثابت کردن فریم اسکن — فریم اسکن شده به جای سیاه شدن قابل مشاهده می‌ماند. برای اسکن دوربین و گالری کار می‌کند.",
+        "دوربین روی لنز اصلی می‌ماند — دیگر خبری از تعویض تصادفی به دوربین فوقعریض در تلفن‌های چند لنزه نیست.",
+        "زوم نرم‌تر — گام‌های ریزتر 0.05× و کالیبراسیون خودکار با دوربین دستگاه شما برای حس زوم قابل پیش‌بینی.",
+        "دکمه بستن بزرگتر — X بزرگتر و راحت‌تر برای لمس با پس‌زمینه دایره‌ای برای بستن نتایج اسکن."
+      ],
+      "hi": [
+        "स्कैन फ़्रीज़-फ़्रेम — स्कैन किया गया फ़्रेम काला होने के बजाय दिखाई देता है। कैमरा और गैलरी दोनों स्कैन के लिए काम करता है।",
+        "कैमरा मुख्य लेंस पर रहता है — मल्टी-लेंस फ़ोन पर अल्ट्रावाइड कैमरे पर अनजाने में स्विच नहीं होता।",
+        "स्मूथ ज़ूम — 0.05× के महीन कदम और आपके डिवाइस के कैमरे के लिए ऑटो-कैलिब्रेशन, पूर्वानुमानित ज़ूम अनुभव के लिए।",
+        "बड़ा डिसमिस बटन — स्कैन परिणाम बंद करने के लिए गोलाकार पृष्ठभूमि वाला बड़ा, आसानी से टैप होने वाला X।"
+      ],
+      "bn": [
+        "স্ক্যান ফ্রিজ-ফ্রেম — স্ক্যান করা ফ্রেম কালো না হয়ে দৃশ্যমান থাকে। ক্যামেরা এবং গ্যালারি উভয় স্ক্যানের জন্য কাজ করে।",
+        "ক্যামেরা প্রধান লেন্সে থাকে — মাল্টি-লেন্স ফোনে আল্ট্রাওয়াইড ক্যামেরায় আর অনিচ্ছাকৃত সুইচিং নেই।",
+        "মসৃণ জুম — 0.05× সূক্ষ্ম ধাপ এবং পূর্বানুমানযোগ্য জুম অনুভূতির জন্য আপনার ডিভাইসের ক্যামেরায় স্বয়ংক্রিয় ক্যালিব্রেশন।",
+        "বড় ডিসমিস বাটন — বৃত্তাকার পটভূমি সহ বড়, ট্যাপ করা সহজ X স্ক্যান ফলাফল বন্ধ করতে।"
+      ],
+      "ur": [
+        "اسکین فریز فریم — اسکین کیا گیا فریم سیاہ ہونے کے بجائے نظر آتا ہے۔ کیمرہ اور گیلری دونوں اسکین کے لیے کام کرتا ہے۔",
+        "کیمرہ مرکزی لینس پر رہتا ہے — ملٹی لینس فونز پر الٹرا وائڈ کیمرے پر اب حادثاتی طور پر سوئچنگ نہیں ہوتی۔",
+        "ہموار زوم — 0.05× کے باریک قدم اور پیش قیاسی زوم احساس کے لیے آپ کے ڈیوائس کے کیمرے پر خودکار کیلیبریشن۔",
+        "بڑا ڈسمس بٹن — گول پس منظر والا بڑا، ٹیپ کرنے میں آسان X اسکین نتائج بند کرنے کے لیے۔"
+      ],
+      "ja": [
+        "スキャンフリーズフレーム — スキャンしたフレームが黒くなる代わりに表示され続けます。カメラとギャラリーの両方のスキャンに対応。",
+        "カメラはメインレンズを維持 — マルチレンズスマホで超広角カメラに誤って切り替わることはもうありません。",
+        "より滑らかなズーム — 0.05×の細かいステップと、予測可能なズーム感のためのデバイスのカメラへの自動キャリブレーション。",
+        "大きな閉じるボタン — スキャン結果を閉じるための円形背景付きの大きくてタップしやすいX。"
+      ],
+      "ko": [
+        "스캔 프리즈 프레임 — 스캔된 프레임이 검은색으로 바뀌지 않고 계속 표시됩니다. 카메라 및 갤러리 스캔 모두에서 작동합니다.",
+        "카메라가 메인 렌즈에 유지 — 멀티 렌즈 폰에서 초광각 카메라로 우발적으로 전환되지 않습니다.",
+        "더 부드러운 줌 — 0.05×의 미세한 단계와 예측 가능한 줌 느낌을 위한 기기 카메라 자동 보정.",
+        "더 큰 닫기 버튼 — 스캔 결과를 닫기 위한 원형 배경의 더 크고 탭하기 쉬운 X."
+      ],
+      "zh": [
+        "扫描冻结帧 — 扫描的帧保持可见而不会变黑。适用于相机和相册扫描。",
+        "相机保持在主镜头上 — 不再意外切换到多镜头手机上的超广角相机。",
+        "更平滑的缩放 — 0.05倍精细步进和自动校准到您设备的相机，实现可预测的缩放感觉。",
+        "更大的关闭按钮 — 更大、更容易点击的X，带圆形背景，用于关闭扫描结果。"
+      ],
+      "vi": [
+        "Đóng băng khung hình khi quét — khung hình được quét vẫn hiển thị thay vì chuyển sang màu đen. Hoạt động cho cả quét camera và thư viện.",
+        "Camera ở lại ống kính chính — không còn chuyển đổi ngẫu nhiên sang camera siêu rộng trên điện thoại nhiều ống kính.",
+        "Thu phóng mượt mà hơn — bước nhỏ hơn 0.05× và tự động hiệu chỉnh theo camera thiết bị của bạn để cảm giác thu phóng dễ đoán.",
+        "Nút đóng lớn hơn — X lớn hơn, dễ chạm hơn với nền tròn để đóng kết quả quét."
+      ],
+      "th": [
+        "ตรึงเฟรมการสแกน — เฟรมที่สแกนยังคงมองเห็นได้แทนที่จะเป็นสีดำ ทำงานได้ทั้งการสแกนจากกล้องและแกลเลอรี",
+        "กล้องอยู่ที่เลนส์หลัก — ไม่มีการสลับไปใช้กล้องมุมกว้างพิเศษโดยไม่ได้ตั้งใจบนโทรศัพท์หลายเลนส์อีกต่อไป",
+        "การซูมที่นุ่มนวลขึ้น — ขั้นตอนละเอียดขึ้นที่ 0.05× และการปรับเทียบอัตโนมัติกับกล้องของอุปกรณ์เพื่อความรู้สึกซูมที่คาดเดาได้",
+        "ปุ่มปิดที่ใหญ่ขึ้น — X ที่ใหญ่ขึ้น แตะง่ายขึ้น พร้อมพื้นหลังวงกลมเพื่อปิดผลการสแกน"
+      ],
+      "id": [
+        "Bingkai beku pindai — bingkai yang dipindai tetap terlihat alih-alih menjadi hitam. Berfungsi untuk pemindaian kamera dan galeri.",
+        "Kamera tetap di lensa utama — tidak ada lagi peralihan tak sengaja ke kamera ultrawide pada ponsel multi-lensa.",
+        "Zoom lebih halus — langkah lebih kecil 0.05× dan kalibrasi otomatis ke kamera perangkat Anda untuk sensasi zoom yang dapat diprediksi.",
+        "Tombol tutup lebih besar — X lebih besar, lebih mudah diketuk dengan latar belakang melingkar untuk menutup hasil pemindaian."
+      ],
+      "uk": [
+        "Застиглий кадр сканування — відсканований кадр залишається видимим замість чорного екрана. Працює для сканування з камери та галереї.",
+        "Камера залишається на основній лінзі — більше жодних випадкових перемикань на ультраширококутну камеру на телефонах із кількома лінзами.",
+        "Плавніший зум — кроки 0.05× та автокалібрування під камеру вашого пристрою для передбачуваного зуму.",
+        "Більша кнопка закриття — більший X із круглим фоном, легше натискати для закриття результатів сканування."
+      ]
+    },
+    {
       "version": "0.0.4+150",
       "en": [
         "Zoom controls — tap + and − to zoom in and out on the scanner, no pinch needed.",
