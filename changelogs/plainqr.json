@@ -1,6 +1,75 @@
 {
   "versions": [
     {
+      "version": "0.0.4+195",
+      "en": [
+        "Updated store listing descriptions across all languages."
+      ],
+      "ar": [
+        "تم تحديث أوصاف بطاقة المتجر في جميع اللغات."
+      ],
+      "bn": [
+        "সকল ভাষায় স্টোর তালিকার বিবরণ আপডেট করা হয়েছে।"
+      ],
+      "de": [
+        "Store-Eintragsbeschreibungen in allen Sprachen aktualisiert."
+      ],
+      "es": [
+        "Descripciones de la ficha de la tienda actualizadas en todos los idiomas."
+      ],
+      "fa": [
+        "توضیحات فهرست فروشگاه در همه زبان‌ها به‌روزرسانی شد."
+      ],
+      "fr": [
+        "Descriptions de la fiche Play Store mises à jour dans toutes les langues."
+      ],
+      "hi": [
+        "सभी भाषाओं में स्टोर लिस्टिंग विवरण अपडेट किया गया।"
+      ],
+      "id": [
+        "Deskripsi listing toko diperbarui di semua bahasa."
+      ],
+      "it": [
+        "Descrizioni della scheda dello store aggiornate in tutte le lingue."
+      ],
+      "ja": [
+        "すべての言語でストア掲載情報の説明を更新しました。"
+      ],
+      "ko": [
+        "모든 언어로 스토어 등록정보 설명이 업데이트되었습니다."
+      ],
+      "nl": [
+        "Store-vermeldingsbeschrijvingen bijgewerkt in alle talen."
+      ],
+      "pl": [
+        "Opisy w karcie sklepu zaktualizowane we wszystkich językach."
+      ],
+      "pt": [
+        "Descrições da ficha da loja atualizadas em todos os idiomas."
+      ],
+      "ro": [
+        "Descrierile listării din magazin actualizate pentru toate limbile."
+      ],
+      "ru": [
+        "Описания карточки магазина обновлены на всех языках."
+      ],
+      "th": [
+        "อัปเดตคำอธิบายรายการร้านค้าในทุกภาษาแล้ว"
+      ],
+      "tr": [
+        "Mağaza girişi açıklamaları tüm dillerde güncellendi."
+      ],
+      "ur": [
+        "تمام زبانوں میں اسٹور لسٹنگ کی تفصیلات اپ ڈیٹ کر دی گئی ہیں۔"
+      ],
+      "vi": [
+        "Đã cập nhật mô tả danh sách cửa hàng trên tất cả ngôn ngữ."
+      ],
+      "zh": [
+        "已更新所有语言的商店列表描述。"
+      ]
+    },
+    {
       "version": "0.0.4+154",
       "en": [
         "Scan freeze-frame — the scanned frame stays visible instead of going black. Works for both camera and gallery scans.",
@@ -303,13 +372,6 @@
         "ببینید چه چیزی ارسال می‌کنید — پیش‌نمایش لاگ‌های خطا قبل از ارسال بازخورد.",
         "اشتراک‌گذاری لاگ خطا — بازخورد می‌تواند لاگ‌ها را برای اشکال‌زدایی سریع شامل کند.",
         "دسترسی‌پذیری — دکمه‌های زوم از اهداف لمسی 48dp فراتر می‌روند."
-      ],
-      "zh": [
-        "缩放控制 — 在扫描器中点击+和−缩放，无需捏合。",
-        "改进的捏合缩放 — 更流畅、更可靠的手势操作。",
-        "查看发送内容 — 提交反馈前预览错误日志。",
-        "错误日志共享 — 反馈可包含错误日志以加快调试。",
-        "无障碍 — 缩放按钮超过48dp触摸目标。"
       ]
     },
     {
