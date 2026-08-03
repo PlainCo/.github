@@ -3,158 +3,238 @@
     {
       "version": "0.0.4+195",
       "en": [
-        "IAP fix — Play can now revoke the unlock, not just grant it.",
-        "In-app update improvements — prompts before restarting, stops nagging, checks freshness.",
-        "Scanner layout fix — zoom controls and banner no longer hidden behind the navigation bar.",
-        "Localised price — the unlock banner now shows your local currency, not hardcoded \\.99.",
-        "Copy fix — app no longer claims all generators are paid (six are free)."
+        "Bug fix: Zoom no longer switches from the main camera to the wide lens on multi-camera phones.",
+        "Bug fix: Zoom out now works correctly across the full range.",
+        "New: What's New page — see what changed in each update, right inside the app.",
+        "New: Rate Us — tap the star in the menu to leave a review on the Play Store.",
+        "IAP reliability — if Play revokes your purchase, the app now respects it instead of leaving the unlock open. Also handles interrupted purchases by restoring silently in the background.",
+        "In-app updates that work — asks before restarting instead of forcing it, stops nagging you after you decline, and only prompts when the update is actually fresh.",
+        "Scanner layout rebuilt — the zoom buttons and unlock banner now stay visible on phones with 3-button navigation. No more controls hidden behind the system bar.",
+        "Your real currency — the unlock banner and paywall now show the actual price from Play Billing in your local currency, instead of a hardcoded \\.99 that was wrong in most countries.",
+        "Honest copy — the app no longer says all nine generators are paid. Six are free (URL, text, phone, email, SMS, location). Only WiFi, vCard and Calendar need the unlock."
       ],
       "ro": [
-        "Remediere IAP — Play poate acum revoca deblocarea, nu doar să o acorde.",
-        "Îmbunătățiri actualizare în aplicație — solicită confirmare înainte de repornire, nu mai cicălește, verifică actualitatea.",
-        "Remediere layout scanner — controalele de zoom și bannerul nu mai sunt ascunse de bara de navigare.",
-        "Preț localizat — bannerul de deblocare arată acum moneda ta locală, nu \\.99 codat.",
-        "Remediere text — aplicația nu mai pretinde că toate generatoarele sunt plătite (șase sunt gratuite)."
+        "Remediere: Zoomul nu mai comută de la camera principală la lentila wide pe telefoanele cu mai multe camere.",
+        "Remediere: Zoom out funcționează acum corect pe întreaga gamă.",
+        "Nou: Pagina Ce e Nou — vezi ce s-a schimbat la fiecare actualizare, direct în aplicație.",
+        "Nou: Evaluează-ne — atinge steaua din meniu pentru a lăsa un review pe Play Store.",
+        "Fiabilitate IAP — dacă Play revocă achiziția, aplicația o respectă acum în loc să lase deblocarea deschisă. De asemenea, gestionează achizițiile întrerupte restaurându-le silențios în fundal.",
+        "Actualizări în aplicație care funcționează — întreabă înainte de repornire în loc să forțeze, nu mai cicălește după ce refuzi și notifică doar când actualizarea e proaspătă.",
+        "Layout scanner refăcut — butoanele de zoom și bannerul de deblocare rămân vizibile pe telefoanele cu navigare pe 3 butoane. Fără controale ascunse după bara de sistem.",
+        "Moneda ta reală — bannerul de deblocare și paywall-ul arată acum prețul real de la Play Billing în moneda ta locală, nu un \\.99 codat care era greșit în majoritatea țărilor.",
+        "Text corect — aplicația nu mai spune că toate cele nouă generatoare sunt plătite. Șase sunt gratuite (URL, text, telefon, email, SMS, locație). Doar WiFi, vCard și Calendar necesită deblocarea."
       ],
       "fr": [
-        "Correctif IAP — Play peut désormais révoquer le déverrouillage, pas seulement l'accorder.",
-        "Améliorations de mise à jour — invite avant redémarrage, arrête de harceler, vérifie la fraîcheur.",
-        "Correctif layout scanner — les contrôles de zoom et la bannière ne sont plus cachés par la barre de navigation.",
-        "Prix localisé — la bannière de déverrouillage affiche maintenant votre devise locale, pas \\.99 en dur.",
-        "Correctif texte — l'application ne prétend plus que tous les générateurs sont payants (six sont gratuits)."
+        "Correction : le zoom ne bascule plus de l'appareil principal vers l'objectif grand-angle sur les téléphones multi-caméras.",
+        "Correction : le zoom arrière fonctionne désormais correctement sur toute la plage.",
+        "Nouveau : page Nouveautés — voyez ce qui a changé à chaque mise à jour, directement dans l'application.",
+        "Nouveau : Évaluez-nous — appuyez sur l'étoile dans le menu pour laisser un avis sur le Play Store.",
+        "Fiabilité IAP — si Play révoque votre achat, l'application le respecte au lieu de laisser le déverrouillage ouvert. Gère aussi les achats interrompus en restaurant silencieusement en arrière-plan.",
+        "Mises à jour intégrées améliorées — demande avant de redémarrer au lieu de forcer, arrête de harceler après un refus, et ne propose que les mises à jour réellement récentes.",
+        "Disposition du scanner reconstruite — les boutons de zoom et la bannière de déverrouillage restent visibles sur les téléphones avec navigation à 3 boutons. Plus de commandes cachées derrière la barre système.",
+        "Votre vraie devise — la bannière de déverrouillage affiche maintenant le vrai prix de Play Billing dans votre devise locale, au lieu d'un \\.99 codé en dur qui était faux dans la plupart des pays.",
+        "Description honnête — l'application ne dit plus que les neuf générateurs sont payants. Six sont gratuits (URL, texte, téléphone, email, SMS, localisation). Seuls WiFi, vCard et Agenda nécessitent le déverrouillage."
       ],
       "de": [
-        "IAP-Fix — Play kann die Freischaltung jetzt widerrufen, nicht nur gewähren.",
-        "In-App-Update-Verbesserungen — fragt vor Neustart, hört auf zu nerven, prüft Aktualität.",
-        "Scanner-Layout-Fix — Zoom-Steuerung und Banner nicht mehr hinter der Navigationsleiste versteckt.",
-        "Lokalisierter Preis — das Freischalt-Banner zeigt jetzt Ihre lokale Währung, nicht hartkodiert \\.99.",
-        "Text-Fix — die App behauptet nicht mehr, alle Generatoren seien kostenpflichtig (sechs sind kostenlos)."
+        "Fehlerbehebung: Zoom wechselt auf Multi-Kamera-Handys nicht mehr von der Hauptkamera zum Weitwinkelobjektiv.",
+        "Fehlerbehebung: Herauszoomen funktioniert jetzt korrekt über den gesamten Bereich.",
+        "Neu: Neuigkeiten-Seite — sehen Sie, was sich mit jedem Update geändert hat, direkt in der App.",
+        "Neu: Bewerten Sie uns — tippen Sie auf den Stern im Menü, um eine Bewertung im Play Store zu hinterlassen.",
+        "IAP-Zuverlässigkeit — wenn Play Ihren Kauf widerruft, respektiert die App dies jetzt, statt die Freischaltung offen zu lassen. Unterbrochene Käufe werden still im Hintergrund wiederhergestellt.",
+        "Funktionierende In-App-Updates — fragt vor dem Neustart, statt zu erzwingen, hört nach Ablehnung auf zu nerven und meldet sich nur bei wirklich aktuellen Updates.",
+        "Scanner-Layout neu aufgebaut — Zoom-Tasten und Freischalt-Banner bleiben auf Handys mit 3-Tasten-Navigation sichtbar. Keine versteckten Bedienelemente mehr hinter der Systemleiste.",
+        "Ihre echte Währung — das Freischalt-Banner zeigt jetzt den tatsächlichen Preis von Play Billing in Ihrer Landeswährung, statt eines hartcodierten \\.99, das in den meisten Ländern falsch war.",
+        "Ehrliche Beschreibung — die App behauptet nicht mehr, alle neun Generatoren seien kostenpflichtig. Sechs sind kostenlos (URL, Text, Telefon, E-Mail, SMS, Standort). Nur WLAN, vCard und Kalender benötigen die Freischaltung."
       ],
       "es": [
-        "Corrección IAP — Play ahora puede revocar el desbloqueo, no solo concederlo.",
-        "Mejoras de actualización — pregunta antes de reiniciar, deja de molestar, verifica actualidad.",
-        "Corrección de diseño — controles de zoom y banner ya no ocultos tras la barra de navegación.",
-        "Precio localizado — el banner de desbloqueo ahora muestra tu moneda local, no \\.99 fijo.",
-        "Corrección de texto — la app ya no dice que todos los generadores son de pago (seis son gratis)."
+        "Corrección: El zoom ya no cambia de la cámara principal al gran angular en teléfonos con múltiples cámaras.",
+        "Corrección: Alejar ahora funciona correctamente en todo el rango.",
+        "Nuevo: Página Novedades — ve qué cambió en cada actualización, directamente en la app.",
+        "Nuevo: Valóranos — toca la estrella en el menú para dejar una reseña en Play Store.",
+        "Fiabilidad IAP — si Play revoca tu compra, la app ahora lo respeta en lugar de dejar el desbloqueo abierto. También restaura compras interrumpidas silenciosamente en segundo plano.",
+        "Actualizaciones que funcionan — pregunta antes de reiniciar en vez de forzarlo, deja de molestar tras rechazar y solo avisa cuando la actualización es realmente reciente.",
+        "Diseño del escáner reconstruido — los botones de zoom y el banner de desbloqueo permanecen visibles en teléfonos con navegación de 3 botones. Sin controles ocultos tras la barra del sistema.",
+        "Tu moneda real — el banner de desbloqueo ahora muestra el precio real de Play Billing en tu moneda local, no un \\.99 fijo que era incorrecto en la mayoría de países.",
+        "Descripción honesta — la app ya no dice que los nueve generadores son de pago. Seis son gratis (URL, texto, teléfono, email, SMS, ubicación). Solo WiFi, vCard y Calendario necesitan desbloqueo."
       ],
       "it": [
-        "Fix IAP — Play ora può revocare lo sblocco, non solo concederlo.",
-        "Miglioramenti aggiornamento — chiede prima di riavviare, smette di insistere, verifica aggiornamento.",
-        "Fix layout scanner — controlli zoom e banner non più nascosti dietro la barra di navigazione.",
-        "Prezzo localizzato — il banner di sblocco ora mostra la tua valuta locale, non \\.99 fisso.",
-        "Fix testo — l'app non afferma più che tutti i generatori sono a pagamento (sei sono gratis)."
+        "Correzione: Lo zoom non passa più dalla fotocamera principale al grandangolo sui telefoni multi-camera.",
+        "Correzione: Lo zoom indietro ora funziona correttamente su tutta la gamma.",
+        "Novità: Pagina Novità — guarda cosa è cambiato a ogni aggiornamento, direttamente nell'app.",
+        "Novità: Valutaci — tocca la stella nel menu per lasciare una recensione sul Play Store.",
+        "Affidabilità IAP — se Play revoca il tuo acquisto, l'app ora lo rispetta invece di lasciare lo sblocco aperto. Gestisce anche gli acquisti interrotti ripristinandoli silenziosamente in background.",
+        "Aggiornamenti in-app migliorati — chiede prima di riavviare invece di forzare, smette di insistere dopo un rifiuto e avvisa solo quando l'aggiornamento è effettivamente recente.",
+        "Layout scanner ricostruito — i pulsanti zoom e il banner di sblocco restano visibili sui telefoni con navigazione a 3 pulsanti. Nessun controllo nascosto dietro la barra di sistema.",
+        "La tua vera valuta — il banner di sblocco ora mostra il prezzo reale di Play Billing nella tua valuta locale, invece di un \\.99 fisso che era sbagliato nella maggior parte dei paesi.",
+        "Testo onesto — l'app non dice più che tutti e nove i generatori sono a pagamento. Sei sono gratuiti (URL, testo, telefono, email, SMS, posizione). Solo WiFi, vCard e Calendario richiedono lo sblocco."
       ],
       "pt": [
-        "Correção IAP — Play agora pode revogar o desbloqueio, não apenas concedê-lo.",
-        "Melhorias de atualização — pergunta antes de reiniciar, para de incomodar, verifica atualização.",
-        "Correção de layout — controles de zoom e banner não mais ocultos atrás da barra de navegação.",
-        "Preço localizado — o banner de desbloqueio agora mostra sua moeda local, não \\.99 fixo.",
-        "Correção de texto — app não afirma mais que todos os geradores são pagos (seis são gratuitos)."
+        "Correção: O zoom não troca mais da câmera principal para a grande angular em celulares com múltiplas câmeras.",
+        "Correção: Afastar agora funciona corretamente em todo o alcance.",
+        "Novo: Página Novidades — veja o que mudou a cada atualização, direto no app.",
+        "Novo: Avalie-nos — toque na estrela no menu para deixar uma avaliação na Play Store.",
+        "Confiabilidade IAP — se o Play revogar sua compra, o app agora respeita em vez de deixar o desbloqueio aberto. Também restaura compras interrompidas silenciosamente em segundo plano.",
+        "Atualizações no app que funcionam — pergunta antes de reiniciar em vez de forçar, para de incomodar após recusar e só avisa quando a atualização é realmente recente.",
+        "Layout do scanner reconstruído — os botões de zoom e o banner de desbloqueio permanecem visíveis em celulares com navegação de 3 botões. Sem controles escondidos atrás da barra do sistema.",
+        "Sua moeda real — o banner de desbloqueio agora mostra o preço real do Play Billing na sua moeda local, em vez de um \\.99 fixo que estava errado na maioria dos países.",
+        "Descrição honesta — o app não diz mais que todos os nove geradores são pagos. Seis são gratuitos (URL, texto, telefone, email, SMS, localização). Só WiFi, vCard e Calendário precisam de desbloqueio."
       ],
       "ru": [
-        "Исправление IAP — Play теперь может отзывать разблокировку, а не только предоставлять.",
-        "Улучшения обновлений — запрашивает подтверждение перед перезапуском, перестаёт надоедать, проверяет актуальность.",
-        "Исправление макета сканера — кнопки зума и баннер больше не скрыты за панелью навигации.",
-        "Локализованная цена — баннер разблокировки теперь показывает местную валюту, а не жёстко \\.99.",
-        "Исправление текста — приложение больше не утверждает, что все генераторы платные (шесть бесплатны)."
+        "Исправление: Зум больше не переключается с основной камеры на широкоугольную на телефонах с несколькими камерами.",
+        "Исправление: Уменьшение теперь работает корректно во всём диапазоне.",
+        "Новое: Страница Что нового — смотрите изменения в каждом обновлении прямо в приложении.",
+        "Новое: Оцените нас — нажмите на звезду в меню, чтобы оставить отзыв в Play Store.",
+        "Надёжность IAP — если Play отзывает покупку, приложение теперь это учитывает. Прерванные покупки восстанавливаются бесшумно в фоне.",
+        "Обновления без навязчивости — запрашивает подтверждение перед перезапуском, перестаёт надоедать после отказа, проверяет актуальность перед показом.",
+        "Перестроенный макет сканера — кнопки зума и баннер теперь видны на телефонах с 3-кнопочной навигацией. Никаких скрытых элементов за системной панелью.",
+        "Настоящая местная цена — баннер разблокировки показывает реальную цену от Play Billing в местной валюте вместо жёстко заданного \\.99.",
+        "Честное описание — приложение больше не говорит, что все девять генераторов платные. Шесть бесплатны (URL, текст, телефон, email, SMS, локация). Только WiFi, vCard и Календарь требуют разблокировки."
       ],
       "pl": [
-        "Poprawka IAP — Play może teraz cofnąć odblokowanie, nie tylko je przyznać.",
-        "Ulepszenia aktualizacji — pyta przed ponownym uruchomieniem, przestaje marudzić, sprawdza aktualność.",
-        "Poprawka układu skanera — kontrolki zoomu i baner nie są już ukryte za paskiem nawigacji.",
-        "Zlokalizowana cena — baner odblokowania pokazuje teraz lokalną walutę, nie na sztywno \\.99.",
-        "Poprawka tekstu — aplikacja nie twierdzi już, że wszystkie generatory są płatne (sześć jest darmowych)."
+        "Poprawka: Zoom nie przełącza się już z głównego aparatu na szerokokątny w telefonach z wieloma aparatami.",
+        "Poprawka: Oddalanie działa teraz poprawnie w całym zakresie.",
+        "Nowość: Strona Co nowego — zobacz co się zmieniło w każdej aktualizacji, bezpośrednio w aplikacji.",
+        "Nowość: Oceń nas — dotknij gwiazdki w menu, aby zostawić recenzję w Play Store.",
+        "Niezawodność IAP — jeśli Play cofnie zakup, aplikacja teraz to respektuje. Przerwane zakupy są przywracane cicho w tle.",
+        "Aktualizacje bez irytacji — pyta przed restartem zamiast wymuszać, przestaje marudzić po odmowie, sprawdza aktualność przed pokazaniem.",
+        "Przebudowany układ skanera — przyciski zoomu i baner są teraz widoczne na telefonach z nawigacją 3-przyciskową. Żadnych ukrytych kontrolek za paskiem systemowym.",
+        "Twoja prawdziwa waluta — baner odblokowania pokazuje rzeczywistą cenę z Play Billing w lokalnej walucie, zamiast sztywnego \\.99 błędnego w większości krajów.",
+        "Szczery opis — aplikacja nie twierdzi już, że wszystkie dziewięć generatorów jest płatnych. Sześć jest darmowych (URL, tekst, telefon, email, SMS, lokalizacja). Tylko WiFi, vCard i Kalendarz wymagają odblokowania."
       ],
       "nl": [
-        "IAP-fix — Play kan de ontgrendeling nu intrekken, niet alleen toekennen.",
-        "Verbeteringen in-app update — vraagt voor herstart, stopt met zeuren, controleert versheid.",
-        "Scanner layout fix — zoomknoppen en banner niet langer verborgen achter de navigatiebalk.",
-        "Gelokaliseerde prijs — de ontgrendelingsbanner toont nu je lokale valuta, niet hardgecodeerd \\.99.",
-        "Tekstfix — app beweert niet langer dat alle generators betaald zijn (zes zijn gratis)."
+        "Bugfix: Zoom schakelt niet langer van de hoofdcamera naar de groothoeklens op multi-camera telefoons.",
+        "Bugfix: Uitzoomen werkt nu correct over het volledige bereik.",
+        "Nieuw: Wat is er nieuw-pagina — bekijk wat er per update veranderd is, direct in de app.",
+        "Nieuw: Beoordeel ons — tik op de ster in het menu om een review achter te laten in de Play Store.",
+        "IAP-betrouwbaarheid — als Play je aankoop intrekt, respecteert de app dat nu. Onderbroken aankopen worden stil op de achtergrond hersteld.",
+        "Updates zonder gezeur — vraagt voor herstart in plaats van te forceren, stopt met aandringen na weigering en toont alleen echt recente updates.",
+        "Scannerlayout herbouwd — zoomknoppen en banner blijven zichtbaar op telefoons met 3-knoppen navigatie. Geen verborgen bediening meer achter de systeembalk.",
+        "Jouw echte valuta — de ontgrendelingsbanner toont nu de werkelijke prijs van Play Billing in jouw lokale valuta, in plaats van een vast \\.99.",
+        "Eerlijke tekst — de app beweert niet langer dat alle negen generators betaald zijn. Zes zijn gratis (URL, tekst, telefoon, e-mail, sms, locatie). Alleen WiFi, vCard en Agenda vereisen ontgrendeling."
       ],
       "tr": [
-        "IAP düzeltmesi — Play artık kilidi iptal edebilir, sadece vermekle kalmaz.",
-        "Uygulama içi güncelleme iyileştirmeleri — yeniden başlatmadan önce sorar, rahatsız etmeyi bırakır, güncelliği kontrol eder.",
-        "Tarayıcı düzen düzeltmesi — zoom kontrolleri ve banner artık gezinme çubuğunun arkasında gizli değil.",
-        "Yerelleştirilmiş fiyat — kilit açma banner'ı artık sabit \\.99 yerine yerel para biriminizi gösterir.",
-        "Metin düzeltmesi — uygulama artık tüm jeneratörlerin ücretli olduğunu iddia etmiyor (altı tanesi ücretsiz)."
-      ],
-      "ar": [
-        "إصلاح IAP — يمكن لـ Play الآن إلغاء الفتح، وليس فقط منحه.",
-        "تحسينات التحديث داخل التطبيق — يطلب التأكيد قبل إعادة التشغيل، يتوقف عن الإزعاج، يتحقق من الحداثة.",
-        "إصلاح تخطيط الماسح — أدوات التكبير والبانر لم تعد مخفية خلف شريط التنقل.",
-        "السعر المحلي — بانر الفتح يعرض الآن عملتك المحلية، وليس \\.99 ثابت.",
-        "إصلاح النص — التطبيق لم يعد يدّعي أن جميع المولدات مدفوعة (ستة منها مجانية)."
-      ],
-      "fa": [
-        "رفع IAP — Play اکنون می‌تواند باز کردن قفل را لغو کند، نه فقط اعطا کند.",
-        "بهبودهای به‌روزرسانی درون‌برنامه‌ای — قبل از راه‌اندازی مجدد درخواست تأیید می‌کند، اذیت نمی‌کند، تازگی را بررسی می‌کند.",
-        "رفع طرح اسکنر — کنترل‌های زوم و بنر دیگر پشت نوار ناوبری مخفی نیستند.",
-        "قیمت محلی — بنر باز کردن قفل اکنون ارز محلی شما را نشان می‌دهد، نه \\.99 ثابت.",
-        "رفع متن — برنامه دیگر ادعا نمی‌کند همه ژنراتورها پولی هستند (شش تای آنها رایگان است)."
-      ],
-      "hi": [
-        "IAP सुधार — Play अब अनलॉक को रद्द कर सकता है, सिर्फ दे ही नहीं सकता।",
-        "इन-ऐप अपडेट सुधार — पुनरारंभ से पहले पूछता है, परेशान करना बंद करता है, ताज़गी की जाँच करता है।",
-        "स्कैनर लेआउट सुधार — ज़ूम नियंत्रण और बैनर अब नेविगेशन बार के पीछे छिपे नहीं हैं।",
-        "स्थानीय मूल्य — अनलॉक बैनर अब आपकी स्थानीय मुद्रा दिखाता है, न कि हार्डकोडेड \\.99।",
-        "टेक्स्ट सुधार — ऐप अब यह दावा नहीं करता कि सभी जनरेटर भुगतान वाले हैं (छह मुफ़्त हैं)।"
-      ],
-      "bn": [
-        "IAP ঠিক করা — Play এখন আনলক প্রত্যাহার করতে পারে, শুধু প্রদান নয়।",
-        "ইন-অ্যাপ আপডেট উন্নতি — পুনরায় চালু করার আগে জিজ্ঞাসা করে, বিরক্ত করা বন্ধ করে, সতেজতা পরীক্ষা করে।",
-        "স্ক্যানার লেআউট ঠিক করা — জুম নিয়ন্ত্রণ এবং ব্যানার আর নেভিগেশন বারের পিছনে লুকানো নেই।",
-        "স্থানীয় মূল্য — আনলক ব্যানার এখন আপনার স্থানীয় মুদ্রা দেখায়, হার্ডকোডেড \\.99 নয়।",
-        "টেক্সট ঠিক করা — অ্যাপ আর দাবি করে না যে সব জেনারেটর অর্থপ্রদত্ত (ছয়টি বিনামূল্যে)।"
-      ],
-      "ur": [
-        "IAP درستگی — Play اب انلاک کو منسوخ کر سکتا ہے، صرف دے ہی نہیں سکتا۔",
-        "ان-ایپ اپ ڈیٹ بہتری — دوبارہ شروع کرنے سے پہلے پوچھتا ہے، تنگ کرنا بند کرتا ہے، تازگی چیک کرتا ہے۔",
-        "سکینر لے آؤٹ درستگی — زوم کنٹرول اور بینر اب نیویگیشن بار کے پیچھے چھپے نہیں ہیں۔",
-        "مقامی قیمت — انلاک بینر اب آپ کی مقامی کرنسی دکھاتا ہے، ہارڈکوڈڈ \\.99 نہیں۔",
-        "متن درستگی — ایپ اب یہ دعویٰ نہیں کرتی کہ تمام جنریٹرز ادائیگی والے ہیں (چھ مفت ہیں)۔"
+        "Hata düzeltmesi: Zoom artık çok kameralı telefonlarda ana kameradan geniş açılı lense geçmiyor.",
+        "Hata düzeltmesi: Uzaklaştırma artık tüm aralıkta doğru çalışıyor.",
+        "Yeni: Yenilikler sayfası — her güncellemede neyin değiştiğini doğrudan uygulamada görün.",
+        "Yeni: Bizi değerlendirin — Play Store'da yorum bırakmak için menüdeki yıldıza dokunun.",
+        "IAP güvenilirliği — Play satın alımınızı iptal ederse, uygulama artık bunu dikkate alır. Kesintiye uğrayan satın alımlar arka planda sessizce geri yüklenir.",
+        "Rahatsız etmeyen güncellemeler — yeniden başlatmadan önce sorar, reddedince ısrar etmez ve sadece gerçekten güncel güncellemeleri gösterir.",
+        "Yeniden yapılandırılmış tarayıcı düzeni — zoom düğmeleri ve banner, 3 düğmeli gezintiye sahip telefonlarda görünür kalır. Sistem çubuğunun arkasında gizli kontroller yok.",
+        "Gerçek yerel fiyat — kilit açma banner'ı artık Play Billing'den gerçek fiyatı yerel para biriminizde gösterir, sabit \\.99 yerine.",
+        "Dürüst açıklama — uygulama artık dokuz jeneratörün hepsinin ücretli olduğunu iddia etmiyor. Altısı ücretsiz (URL, metin, telefon, e-posta, SMS, konum). Sadece WiFi, vCard ve Takvim kilit açma gerektirir."
       ],
       "ja": [
-        "IAP修正 — Playがロック解除を取り消せるようになりました。",
-        "アプリ内アップデート改善 — 再起動前に確認、しつこく催促しない、最新性をチェック。",
-        "スキャナーレイアウト修正 — ズーム操作とバナーがナビゲーションバーの後ろに隠れなくなりました。",
-        "ローカライズ価格 — ロック解除バナーがハードコードの\\.99ではなく現地通貨を表示。",
-        "テキスト修正 — アプリがすべてのジェネレーターを有料と表示しなくなりました（6つは無料）。"
+        "バグ修正: マルチカメラ端末でメインカメラから広角レンズにズームが切り替わらなくなりました。",
+        "バグ修正: ズームアウトが全範囲で正しく動作するようになりました。",
+        "新機能: 更新履歴ページ — 各アップデートの変更点をアプリ内で直接確認できます。",
+        "新機能: 評価する — メニューの星をタップしてPlayストアにレビューを残せます。",
+        "IAPの信頼性向上 — Playが購入を取り消した場合、アプリがそれを正しく反映するようになりました。中断された購入はバックグラウンドで自動復元されます。",
+        "アップデート改善 — 再起動前に確認し、拒否されたら催促を停止、実際に新しい更新のみ通知します。",
+        "スキャナー画面を再構築 — 3ボタンナビゲーションのスマホでもズームボタンとバナーがシステムバーの後ろに隠れなくなりました。",
+        "実際の現地通貨で表示 — ロック解除バナーがPlay Billingの実際の価格を現地通貨で表示。固定の\\.99表記を廃止。",
+        "正確な説明文 — 9つのジェネレーターすべてが有料とは表示されなくなりました。6つは無料（URL、テキスト、電話、メール、SMS、位置情報）。WiFi、vCard、カレンダーのみロック解除が必要です。"
       ],
       "ko": [
-        "IAP 수정 — Play가 이제 잠금 해제를 취소할 수 있습니다.",
-        "인앱 업데이트 개선 — 재시작 전 확인, 잔소리 중단, 최신성 확인.",
-        "스캐너 레이아웃 수정 — 줌 컨트롤과 배너가 더 이상 내비게이션 바 뒤에 숨지 않습니다.",
-        "현지화 가격 — 잠금 해제 배너가 하드코딩된 \\.99 대신 현지 통화를 표시합니다.",
-        "텍스트 수정 — 앱이 더 이상 모든 생성기가 유료라고 주장하지 않습니다 (6개는 무료)."
+        "버그 수정: 멀티 카메라 폰에서 줌이 메인 카메라에서 광각 렌즈로 전환되지 않습니다.",
+        "버그 수정: 줌 아웃이 전체 범위에서 올바르게 작동합니다.",
+        "새 기능: 새로운 소식 페이지 — 각 업데이트에서 변경된 사항을 앱 내에서 바로 확인하세요.",
+        "새 기능: 평가하기 — 메뉴의 별표를 눌러 Play 스토어에 리뷰를 남기세요.",
+        "IAP 신뢰성 — Play가 구매를 취소하면 앱이 이를 제대로 반영합니다. 중단된 구매는 백그라운드에서 자동으로 복원됩니다.",
+        "업데이트 개선 — 재시작 전에 확인하고, 거부하면 더 이상 권장하지 않으며, 실제로 최신 업데이트만 표시합니다.",
+        "스캐너 레이아웃 재구성 — 3버튼 내비게이션 폰에서도 줌 버튼과 배너가 시스템 바 뒤에 숨지 않습니다.",
+        "실제 현지 통화 — 잠금 해제 배너가 Play Billing의 실제 가격을 현지 통화로 표시합니다. 고정 \\.99 대신.",
+        "정직한 설명 — 앱이 더 이상 9개 생성기가 모두 유료라고 주장하지 않습니다. 6개는 무료(URL, 텍스트, 전화, 이메일, SMS, 위치). WiFi, vCard, 캘린더만 잠금 해제 필요."
       ],
       "zh": [
-        "IAP修复 — Play现在可以撤销解锁，而不仅仅是授予。",
-        "应用内更新改进 — 重启前确认，停止唠叨，检查更新状态。",
-        "扫描器布局修复 — 缩放控件和横幅不再隐藏在导航栏后面。",
-        "本地化价格 — 解锁横幅现在显示您的本地货币，而非硬编码\\.99。",
-        "文本修复 — 应用不再声称所有生成器都是付费的（六个免费）。"
+        "Bug修复: 多摄像头手机上缩放不再从主摄像头切换到广角镜头。",
+        "Bug修复: 缩小现在在整个范围内正常工作。",
+        "新增: 更新内容页面 — 在应用内直接查看每次更新的变更。",
+        "新增: 为我们评分 — 点击菜单中的星标在Play商店留下评价。",
+        "IAP可靠性提升 — 如果Play撤销您的购买，应用现在会正确响应。中断的购买会在后台静默恢复。",
+        "更新体验改进 — 重启前询问确认，拒绝后不再反复提醒，仅在更新确实最新时才通知。",
+        "扫描器界面重构 — 3键导航手机上缩放按钮和横幅不再被系统栏遮挡。",
+        "真实本地价格 — 解锁横幅现在显示Play Billing的实际本地价格，而非硬编码的\\.99。",
+        "诚实的产品描述 — 应用不再声称全部九个生成器均需付费。六个免费（网址、文本、电话、邮件、短信、位置）。仅WiFi、vCard和日历需要解锁。"
+      ],
+      "ar": [
+        "إصلاح: الزوم لم يعد ينتقل من الكاميرا الرئيسية إلى العدسة الواسعة على الهواتف متعددة الكاميرات.",
+        "إصلاح: التصغير يعمل الآن بشكل صحيح على النطاق الكامل.",
+        "جديد: صفحة ما الجديد — شاهد ما تغير في كل تحديث، مباشرة في التطبيق.",
+        "جديد: قيّمنا — اضغط على النجمة في القائمة لترك تقييم على متجر Play.",
+        "موثوقية IAP — إذا ألغى Play عملية الشراء، يحترم التطبيق ذلك الآن بدلاً من ترك الفتح مفتوحًا. كما يستعيد المشتريات المتقطعة بصمت في الخلفية.",
+        "تحديثات أفضل — يسأل قبل إعادة التشغيل بدلاً من الإجبار، يتوقف عن الإزعاج بعد الرفض، ولا يعرض إلا التحديثات الحديثة فعلاً.",
+        "إعادة بناء تخطيط الماسح — أزرار التكبير والبانر تبقى مرئية على الهواتف ذات التنقل بثلاثة أزرار. لا مزيد من العناصر المخفية خلف شريط النظام.",
+        "عملتك الحقيقية — بانر الفتح يعرض الآن السعر الحقيقي من Play Billing بعملتك المحلية، بدلاً من \\.99 الثابت.",
+        "وصف صادق — التطبيق لم يعد يدّعي أن جميع المولدات التسعة مدفوعة. ستة منها مجانية (URL، نص، هاتف، بريد، SMS، موقع). فقط WiFi وvCard والتقويم تحتاج فتح."
+      ],
+      "fa": [
+        "رفع باگ: زوم دیگر روی گوشی‌های چند دوربینه از دوربین اصلی به لنز واید تغییر نمی‌کند.",
+        "رفع باگ: کوچک‌نمایی اکنون در کل محدوده به درستی کار می‌کند.",
+        "جدید: صفحه چه خبر — ببینید در هر به‌روزرسانی چه چیزی تغییر کرده، مستقیماً در برنامه.",
+        "جدید: به ما امتیاز دهید — روی ستاره در منو کلیک کنید تا در Play Store نظر بگذارید.",
+        "قابلیت اطمینان IAP — اگر Play خرید را لغو کند، برنامه اکنون آن را رعایت می‌کند. خریدهای قطع شده در پس‌زمینه بی‌صدا بازیابی می‌شوند.",
+        "به‌روزرسانی‌های بهتر — قبل از راه‌اندازی مجدد سوال می‌کند، پس از رد دیگر اذیت نمی‌کند و فقط به‌روزرسانی‌های واقعاً جدید را نشان می‌دهد.",
+        "طرح اسکنر بازسازی شده — دکمه‌های زوم و بنر روی گوشی‌های با ناوبری سه دکمه‌ای قابل مشاهده می‌مانند. دیگر کنترلی پشت نوار سیستم مخفی نیست.",
+        "ارز واقعی شما — بنر باز کردن قفل اکنون قیمت واقعی Play Billing را به ارز محلی شما نشان می‌دهد، نه \\.99 ثابت.",
+        "توضیح صادقانه — برنامه دیگر ادعا نمی‌کند همه نُه ژنراتور پولی هستند. شش تای آنها رایگان است (URL، متن، تلفن، ایمیل، SMS، موقعیت). فقط WiFi، vCard و تقویم نیاز به باز کردن قفل دارند."
+      ],
+      "hi": [
+        "बग फिक्स: मल्टी-कैमरा फ़ोन पर ज़ूम अब मुख्य कैमरे से वाइड लेंस पर स्विच नहीं होता।",
+        "बग फिक्स: ज़ूम आउट अब पूरी रेंज पर सही से काम करता है।",
+        "नया: नया क्या है पेज — हर अपडेट में क्या बदला, सीधे ऐप में देखें।",
+        "नया: हमें रेट करें — Play Store पर समीक्षा छोड़ने के लिए मेनू में स्टार पर टैप करें।",
+        "IAP विश्वसनीयता — यदि Play आपकी खरीदारी रद्द करता है, तो ऐप अब इसका सम्मान करता है। बाधित खरीदारी पृष्ठभूमि में चुपचाप बहाल हो जाती है।",
+        "बेहतर अपडेट — पुनरारंभ से पहले पूछता है, मजबूर नहीं करता, मना करने पर परेशान करना बंद करता है और केवल वास्तव में हाल के अपडेट दिखाता है।",
+        "स्कैनर लेआउट पुनर्निर्मित — 3-बटन नेविगेशन वाले फोन पर ज़ूम बटन और बैनर अब दिखाई देते हैं। सिस्टम बार के पीछे कोई छिपा नियंत्रण नहीं।",
+        "आपकी असली मुद्रा — अनलॉक बैनर अब Play Billing से वास्तविक मूल्य आपकी स्थानीय मुद्रा में दिखाता है, न कि स्थिर \\.99।",
+        "ईमानदार विवरण — ऐप अब यह दावा नहीं करता कि सभी नौ जनरेटर भुगतान वाले हैं। छह मुफ़्त हैं (URL, टेक्स्ट, फ़ोन, ईमेल, SMS, स्थान)। केवल WiFi, vCard और कैलेंडर को अनलॉक की ज़रूरत है।"
+      ],
+      "bn": [
+        "IAP নির্ভরযোগ্যতা — Play ক্রয় বাতিল করলে, অ্যাপ এখন তা মান্য করে। বিঘ্নিত ক্রয়গুলি পটভূমিতে নীরবে পুনরুদ্ধার হয়।",
+        "উন্নত আপডেট — পুনরায় চালু করার আগে জিজ্ঞাসা করে, জোর করে না, প্রত্যাখ্যানের পর বিরক্ত করা বন্ধ করে এবং শুধুমাত্র সত্যিই সাম্প্রতিক আপডেট দেখায়।",
+        "স্ক্যানার লেআউট পুনর্নির্মিত — 3-বোতাম নেভিগেশন ফোনে জুম বোতাম এবং ব্যানার এখন দৃশ্যমান। সিস্টেম বারের পিছনে কোনো লুকানো নিয়ন্ত্রণ নেই।",
+        "আপনার আসল মুদ্রা — আনলক ব্যানার এখন Play Billing থেকে প্রকৃত মূল্য আপনার স্থানীয় মুদ্রায় দেখায়, স্থির \\.99 নয়।",
+        "সৎ বিবরণ — অ্যাপ আর দাবি করে না যে সব নয়টি জেনারেটর অর্থপ্রদত্ত। ছয়টি বিনামূল্যে (URL, টেক্সট, ফোন, ইমেইল, SMS, অবস্থান)। শুধুমাত্র WiFi, vCard এবং ক্যালেন্ডার আনলক প্রয়োজন।"
+      ],
+      "ur": [
+        "IAP اعتماد — اگر Play خریداری منسوخ کرے، تو ایپ اب اس کا احترام کرتی ہے۔ منقطع خریداریاں پس منظر میں خاموشی سے بحال ہو جاتی ہیں۔",
+        "بہتر اپ ڈیٹس — دوبارہ شروع کرنے سے پہلے پوچھتی ہے، زبردستی نہیں، انکار کے بعد تنگ کرنا بند کرتی ہے اور صرف واقعی حالیہ اپ ڈیٹس دکھاتی ہے۔",
+        "سکینر لے آؤٹ دوبارہ تعمیر — 3-بٹن نیویگیشن والے فونز پر زوم بٹن اور بینر اب نظر آتے ہیں۔ سسٹم بار کے پیچھے کوئی چھپا کنٹرول نہیں۔",
+        "آپ کی اصلی کرنسی — انلاک بینر اب Play Billing سے حقیقی قیمت آپ کی مقامی کرنسی میں دکھاتا ہے، نہ کہ مستقل \\.99۔",
+        "دیانت دار تفصیل — ایپ اب یہ دعویٰ نہیں کرتی کہ تمام نو جنریٹرز ادائیگی والے ہیں۔ چھ مفت ہیں (URL، متن، فون، ای میل، SMS، مقام)۔ صرف WiFi، vCard اور کیلنڈر کو انلاک کی ضرورت ہے۔"
       ],
       "vi": [
-        "Sửa IAP — Play giờ có thể thu hồi mở khóa, không chỉ cấp.",
-        "Cải thiện cập nhật trong ứng dụng — hỏi trước khi khởi động lại, ngừng làm phiền, kiểm tra độ mới.",
-        "Sửa bố cục máy quét — điều khiển thu phóng và banner không còn bị ẩn sau thanh điều hướng.",
-        "Giá địa phương hóa — banner mở khóa giờ hiển thị tiền tệ địa phương, không phải \\.99 cứng.",
-        "Sửa văn bản — ứng dụng không còn nói tất cả trình tạo đều trả phí (sáu cái miễn phí)."
+        "Sửa lỗi: Zoom không còn chuyển từ camera chính sang ống kính góc rộng trên điện thoại nhiều camera.",
+        "Sửa lỗi: Thu nhỏ giờ hoạt động chính xác trên toàn bộ phạm vi.",
+        "Mới: Trang Có gì mới — xem những gì đã thay đổi trong mỗi bản cập nhật, ngay trong ứng dụng.",
+        "Mới: Đánh giá chúng tôi — chạm vào ngôi sao trong menu để lại đánh giá trên Play Store.",
+        "Độ tin cậy IAP — nếu Play thu hồi giao dịch mua, ứng dụng giờ tôn trọng điều đó. Giao dịch bị gián đoạn được khôi phục âm thầm trong nền.",
+        "Cập nhật tốt hơn — hỏi trước khi khởi động lại thay vì ép buộc, ngừng làm phiền sau khi từ chối và chỉ hiển thị cập nhật thực sự mới.",
+        "Bố cục máy quét xây dựng lại — nút thu phóng và banner hiển thị trên điện thoại có thanh điều hướng 3 nút. Không còn điều khiển nào bị ẩn sau thanh hệ thống.",
+        "Tiền tệ thực của bạn — banner mở khóa giờ hiển thị giá thực từ Play Billing bằng tiền tệ địa phương, thay vì \\.99 cố định.",
+        "Mô tả trung thực — ứng dụng không còn nói tất cả chín trình tạo đều trả phí. Sáu cái miễn phí (URL, văn bản, điện thoại, email, SMS, vị trí). Chỉ WiFi, vCard và Lịch cần mở khóa."
       ],
       "th": [
-        "แก้ไข IAP — Play สามารถเพิกถอนการปลดล็อคได้แล้ว ไม่ใช่แค่อนุญาต",
-        "การอัปเดตในแอปที่ดีขึ้น — ถามก่อนรีสตาร์ท หยุดรบกวน ตรวจสอบความใหม่",
-        "แก้ไขเลย์เอาต์สแกนเนอร์ — ปุ่มซูมและแบนเนอร์ไม่ซ่อนอยู่หลังแถบนำทางอีกต่อไป",
-        "ราคาท้องถิ่น — แบนเนอร์ปลดล็อคแสดงสกุลเงินท้องถิ่นของคุณ ไม่ใช่ \\.99 ตายตัว",
-        "แก้ไขข้อความ — แอปไม่อ้างว่าเครื่องสร้างทั้งหมดต้องเสียเงินอีกต่อไป (หกอันฟรี)"
+        "แก้ไขบัค: ซูมไม่สลับจากกล้องหลักไปเลนส์มุมกว้างบนโทรศัพท์หลายกล้องอีกต่อไป",
+        "แก้ไขบัค: ซูมออกทำงานถูกต้องตลอดช่วงทั้งหมดแล้ว",
+        "ใหม่: หน้ามีอะไรใหม่ — ดูสิ่งที่เปลี่ยนในแต่ละอัปเดตได้โดยตรงในแอป",
+        "ใหม่: ให้คะแนนเรา — แตะดาวในเมนูเพื่อรีวิวบน Play Store",
+        "ความน่าเชื่อถือของ IAP — หาก Play เพิกถอนการซื้อ แอปจะปฏิบัติตาม การซื้อที่ถูกขัดจังหวะจะถูกกู้คืนอย่างเงียบๆ ในพื้นหลัง",
+        "การอัปเดตที่ดีขึ้น — ถามก่อนรีสตาร์ทแทนการบังคับ หยุดรบกวนหลังถูกปฏิเสธ และแสดงเฉพาะการอัปเดตที่ใหม่จริงๆ",
+        "เลย์เอาต์สแกนเนอร์สร้างใหม่ — ปุ่มซูมและแบนเนอร์มองเห็นได้บนโทรศัพท์ที่มีแถบนำทาง 3 ปุ่ม ไม่มีส่วนควบคุมซ่อนอยู่หลังแถบระบบอีกต่อไป",
+        "สกุลเงินจริงของคุณ — แบนเนอร์ปลดล็อคแสดงราคาจริงจาก Play Billing ในสกุลเงินท้องถิ่นของคุณ แทนที่จะเป็น \\.99 คงที่",
+        "คำอธิบายที่ซื่อสัตย์ — แอปไม่อ้างว่าเครื่องสร้างทั้งเก้าต้องเสียเงินอีกต่อไป หกอันฟรี (URL, ข้อความ, โทรศัพท์, อีเมล, SMS, ตำแหน่ง) เฉพาะ WiFi, vCard และปฏิทินที่ต้องปลดล็อค"
       ],
       "id": [
-        "Perbaikan IAP — Play sekarang dapat mencabut buka kunci, bukan hanya memberikannya.",
-        "Peningkatan pembaruan dalam aplikasi — meminta sebelum memulai ulang, berhenti mengganggu, memeriksa kebaruan.",
-        "Perbaikan tata letak pemindai — kontrol zoom dan spanduk tidak lagi tersembunyi di belakang bilah navigasi.",
-        "Harga terlokalisasi — spanduk buka kunci sekarang menampilkan mata uang lokal Anda, bukan \\.99 tetap.",
-        "Perbaikan teks — aplikasi tidak lagi mengklaim semua generator berbayar (enam gratis)."
+        "Perbaikan bug: Zoom tidak lagi beralih dari kamera utama ke lensa lebar pada ponsel multi-kamera.",
+        "Perbaikan bug: Zoom out sekarang berfungsi dengan benar di seluruh rentang.",
+        "Baru: Halaman Yang Baru — lihat apa yang berubah di setiap pembaruan, langsung di aplikasi.",
+        "Baru: Beri Nilai — ketuk bintang di menu untuk memberikan ulasan di Play Store.",
+        "Keandalan IAP — jika Play membatalkan pembelian, aplikasi sekarang menghormatinya. Pembelian yang terputus dipulihkan diam-diam di latar belakang.",
+        "Pembaruan yang lebih baik — bertanya sebelum memulai ulang alih-alih memaksa, berhenti mengganggu setelah ditolak, dan hanya menampilkan pembaruan yang benar-benar baru.",
+        "Tata letak pemindai dibangun ulang — tombol zoom dan spanduk tetap terlihat di ponsel dengan navigasi 3 tombol. Tidak ada kontrol tersembunyi di balik bilah sistem.",
+        "Mata uang asli Anda — spanduk buka kunci sekarang menampilkan harga sebenarnya dari Play Billing dalam mata uang lokal Anda, bukan \\.99 tetap.",
+        "Deskripsi jujur — aplikasi tidak lagi mengklaim semua sembilan generator berbayar. Enam gratis (URL, teks, telepon, email, SMS, lokasi). Hanya WiFi, vCard, dan Kalender yang perlu dibuka."
       ]
     },
     {
