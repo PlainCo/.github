@@ -3,70 +3,158 @@
     {
       "version": "0.0.4+195",
       "en": [
-        "Updated store listing descriptions across all languages."
-      ],
-      "ar": [
-        "تم تحديث أوصاف بطاقة المتجر في جميع اللغات."
-      ],
-      "bn": [
-        "সকল ভাষায় স্টোর তালিকার বিবরণ আপডেট করা হয়েছে।"
-      ],
-      "de": [
-        "Store-Eintragsbeschreibungen in allen Sprachen aktualisiert."
-      ],
-      "es": [
-        "Descripciones de la ficha de la tienda actualizadas en todos los idiomas."
-      ],
-      "fa": [
-        "توضیحات فهرست فروشگاه در همه زبان‌ها به‌روزرسانی شد."
-      ],
-      "fr": [
-        "Descriptions de la fiche Play Store mises à jour dans toutes les langues."
-      ],
-      "hi": [
-        "सभी भाषाओं में स्टोर लिस्टिंग विवरण अपडेट किया गया।"
-      ],
-      "id": [
-        "Deskripsi listing toko diperbarui di semua bahasa."
-      ],
-      "it": [
-        "Descrizioni della scheda dello store aggiornate in tutte le lingue."
-      ],
-      "ja": [
-        "すべての言語でストア掲載情報の説明を更新しました。"
-      ],
-      "ko": [
-        "모든 언어로 스토어 등록정보 설명이 업데이트되었습니다."
-      ],
-      "nl": [
-        "Store-vermeldingsbeschrijvingen bijgewerkt in alle talen."
-      ],
-      "pl": [
-        "Opisy w karcie sklepu zaktualizowane we wszystkich językach."
-      ],
-      "pt": [
-        "Descrições da ficha da loja atualizadas em todos os idiomas."
+        "IAP fix — Play can now revoke the unlock, not just grant it.",
+        "In-app update improvements — prompts before restarting, stops nagging, checks freshness.",
+        "Scanner layout fix — zoom controls and banner no longer hidden behind the navigation bar.",
+        "Localised price — the unlock banner now shows your local currency, not hardcoded \\.99.",
+        "Copy fix — app no longer claims all generators are paid (six are free)."
       ],
       "ro": [
-        "Descrierile listării din magazin actualizate pentru toate limbile."
+        "Remediere IAP — Play poate acum revoca deblocarea, nu doar să o acorde.",
+        "Îmbunătățiri actualizare în aplicație — solicită confirmare înainte de repornire, nu mai cicălește, verifică actualitatea.",
+        "Remediere layout scanner — controalele de zoom și bannerul nu mai sunt ascunse de bara de navigare.",
+        "Preț localizat — bannerul de deblocare arată acum moneda ta locală, nu \\.99 codat.",
+        "Remediere text — aplicația nu mai pretinde că toate generatoarele sunt plătite (șase sunt gratuite)."
+      ],
+      "fr": [
+        "Correctif IAP — Play peut désormais révoquer le déverrouillage, pas seulement l'accorder.",
+        "Améliorations de mise à jour — invite avant redémarrage, arrête de harceler, vérifie la fraîcheur.",
+        "Correctif layout scanner — les contrôles de zoom et la bannière ne sont plus cachés par la barre de navigation.",
+        "Prix localisé — la bannière de déverrouillage affiche maintenant votre devise locale, pas \\.99 en dur.",
+        "Correctif texte — l'application ne prétend plus que tous les générateurs sont payants (six sont gratuits)."
+      ],
+      "de": [
+        "IAP-Fix — Play kann die Freischaltung jetzt widerrufen, nicht nur gewähren.",
+        "In-App-Update-Verbesserungen — fragt vor Neustart, hört auf zu nerven, prüft Aktualität.",
+        "Scanner-Layout-Fix — Zoom-Steuerung und Banner nicht mehr hinter der Navigationsleiste versteckt.",
+        "Lokalisierter Preis — das Freischalt-Banner zeigt jetzt Ihre lokale Währung, nicht hartkodiert \\.99.",
+        "Text-Fix — die App behauptet nicht mehr, alle Generatoren seien kostenpflichtig (sechs sind kostenlos)."
+      ],
+      "es": [
+        "Corrección IAP — Play ahora puede revocar el desbloqueo, no solo concederlo.",
+        "Mejoras de actualización — pregunta antes de reiniciar, deja de molestar, verifica actualidad.",
+        "Corrección de diseño — controles de zoom y banner ya no ocultos tras la barra de navegación.",
+        "Precio localizado — el banner de desbloqueo ahora muestra tu moneda local, no \\.99 fijo.",
+        "Corrección de texto — la app ya no dice que todos los generadores son de pago (seis son gratis)."
+      ],
+      "it": [
+        "Fix IAP — Play ora può revocare lo sblocco, non solo concederlo.",
+        "Miglioramenti aggiornamento — chiede prima di riavviare, smette di insistere, verifica aggiornamento.",
+        "Fix layout scanner — controlli zoom e banner non più nascosti dietro la barra di navigazione.",
+        "Prezzo localizzato — il banner di sblocco ora mostra la tua valuta locale, non \\.99 fisso.",
+        "Fix testo — l'app non afferma più che tutti i generatori sono a pagamento (sei sono gratis)."
+      ],
+      "pt": [
+        "Correção IAP — Play agora pode revogar o desbloqueio, não apenas concedê-lo.",
+        "Melhorias de atualização — pergunta antes de reiniciar, para de incomodar, verifica atualização.",
+        "Correção de layout — controles de zoom e banner não mais ocultos atrás da barra de navegação.",
+        "Preço localizado — o banner de desbloqueio agora mostra sua moeda local, não \\.99 fixo.",
+        "Correção de texto — app não afirma mais que todos os geradores são pagos (seis são gratuitos)."
       ],
       "ru": [
-        "Описания карточки магазина обновлены на всех языках."
+        "Исправление IAP — Play теперь может отзывать разблокировку, а не только предоставлять.",
+        "Улучшения обновлений — запрашивает подтверждение перед перезапуском, перестаёт надоедать, проверяет актуальность.",
+        "Исправление макета сканера — кнопки зума и баннер больше не скрыты за панелью навигации.",
+        "Локализованная цена — баннер разблокировки теперь показывает местную валюту, а не жёстко \\.99.",
+        "Исправление текста — приложение больше не утверждает, что все генераторы платные (шесть бесплатны)."
       ],
-      "th": [
-        "อัปเดตคำอธิบายรายการร้านค้าในทุกภาษาแล้ว"
+      "pl": [
+        "Poprawka IAP — Play może teraz cofnąć odblokowanie, nie tylko je przyznać.",
+        "Ulepszenia aktualizacji — pyta przed ponownym uruchomieniem, przestaje marudzić, sprawdza aktualność.",
+        "Poprawka układu skanera — kontrolki zoomu i baner nie są już ukryte za paskiem nawigacji.",
+        "Zlokalizowana cena — baner odblokowania pokazuje teraz lokalną walutę, nie na sztywno \\.99.",
+        "Poprawka tekstu — aplikacja nie twierdzi już, że wszystkie generatory są płatne (sześć jest darmowych)."
+      ],
+      "nl": [
+        "IAP-fix — Play kan de ontgrendeling nu intrekken, niet alleen toekennen.",
+        "Verbeteringen in-app update — vraagt voor herstart, stopt met zeuren, controleert versheid.",
+        "Scanner layout fix — zoomknoppen en banner niet langer verborgen achter de navigatiebalk.",
+        "Gelokaliseerde prijs — de ontgrendelingsbanner toont nu je lokale valuta, niet hardgecodeerd \\.99.",
+        "Tekstfix — app beweert niet langer dat alle generators betaald zijn (zes zijn gratis)."
       ],
       "tr": [
-        "Mağaza girişi açıklamaları tüm dillerde güncellendi."
+        "IAP düzeltmesi — Play artık kilidi iptal edebilir, sadece vermekle kalmaz.",
+        "Uygulama içi güncelleme iyileştirmeleri — yeniden başlatmadan önce sorar, rahatsız etmeyi bırakır, güncelliği kontrol eder.",
+        "Tarayıcı düzen düzeltmesi — zoom kontrolleri ve banner artık gezinme çubuğunun arkasında gizli değil.",
+        "Yerelleştirilmiş fiyat — kilit açma banner'ı artık sabit \\.99 yerine yerel para biriminizi gösterir.",
+        "Metin düzeltmesi — uygulama artık tüm jeneratörlerin ücretli olduğunu iddia etmiyor (altı tanesi ücretsiz)."
+      ],
+      "ar": [
+        "إصلاح IAP — يمكن لـ Play الآن إلغاء الفتح، وليس فقط منحه.",
+        "تحسينات التحديث داخل التطبيق — يطلب التأكيد قبل إعادة التشغيل، يتوقف عن الإزعاج، يتحقق من الحداثة.",
+        "إصلاح تخطيط الماسح — أدوات التكبير والبانر لم تعد مخفية خلف شريط التنقل.",
+        "السعر المحلي — بانر الفتح يعرض الآن عملتك المحلية، وليس \\.99 ثابت.",
+        "إصلاح النص — التطبيق لم يعد يدّعي أن جميع المولدات مدفوعة (ستة منها مجانية)."
+      ],
+      "fa": [
+        "رفع IAP — Play اکنون می‌تواند باز کردن قفل را لغو کند، نه فقط اعطا کند.",
+        "بهبودهای به‌روزرسانی درون‌برنامه‌ای — قبل از راه‌اندازی مجدد درخواست تأیید می‌کند، اذیت نمی‌کند، تازگی را بررسی می‌کند.",
+        "رفع طرح اسکنر — کنترل‌های زوم و بنر دیگر پشت نوار ناوبری مخفی نیستند.",
+        "قیمت محلی — بنر باز کردن قفل اکنون ارز محلی شما را نشان می‌دهد، نه \\.99 ثابت.",
+        "رفع متن — برنامه دیگر ادعا نمی‌کند همه ژنراتورها پولی هستند (شش تای آنها رایگان است)."
+      ],
+      "hi": [
+        "IAP सुधार — Play अब अनलॉक को रद्द कर सकता है, सिर्फ दे ही नहीं सकता।",
+        "इन-ऐप अपडेट सुधार — पुनरारंभ से पहले पूछता है, परेशान करना बंद करता है, ताज़गी की जाँच करता है।",
+        "स्कैनर लेआउट सुधार — ज़ूम नियंत्रण और बैनर अब नेविगेशन बार के पीछे छिपे नहीं हैं।",
+        "स्थानीय मूल्य — अनलॉक बैनर अब आपकी स्थानीय मुद्रा दिखाता है, न कि हार्डकोडेड \\.99।",
+        "टेक्स्ट सुधार — ऐप अब यह दावा नहीं करता कि सभी जनरेटर भुगतान वाले हैं (छह मुफ़्त हैं)।"
+      ],
+      "bn": [
+        "IAP ঠিক করা — Play এখন আনলক প্রত্যাহার করতে পারে, শুধু প্রদান নয়।",
+        "ইন-অ্যাপ আপডেট উন্নতি — পুনরায় চালু করার আগে জিজ্ঞাসা করে, বিরক্ত করা বন্ধ করে, সতেজতা পরীক্ষা করে।",
+        "স্ক্যানার লেআউট ঠিক করা — জুম নিয়ন্ত্রণ এবং ব্যানার আর নেভিগেশন বারের পিছনে লুকানো নেই।",
+        "স্থানীয় মূল্য — আনলক ব্যানার এখন আপনার স্থানীয় মুদ্রা দেখায়, হার্ডকোডেড \\.99 নয়।",
+        "টেক্সট ঠিক করা — অ্যাপ আর দাবি করে না যে সব জেনারেটর অর্থপ্রদত্ত (ছয়টি বিনামূল্যে)।"
       ],
       "ur": [
-        "تمام زبانوں میں اسٹور لسٹنگ کی تفصیلات اپ ڈیٹ کر دی گئی ہیں۔"
+        "IAP درستگی — Play اب انلاک کو منسوخ کر سکتا ہے، صرف دے ہی نہیں سکتا۔",
+        "ان-ایپ اپ ڈیٹ بہتری — دوبارہ شروع کرنے سے پہلے پوچھتا ہے، تنگ کرنا بند کرتا ہے، تازگی چیک کرتا ہے۔",
+        "سکینر لے آؤٹ درستگی — زوم کنٹرول اور بینر اب نیویگیشن بار کے پیچھے چھپے نہیں ہیں۔",
+        "مقامی قیمت — انلاک بینر اب آپ کی مقامی کرنسی دکھاتا ہے، ہارڈکوڈڈ \\.99 نہیں۔",
+        "متن درستگی — ایپ اب یہ دعویٰ نہیں کرتی کہ تمام جنریٹرز ادائیگی والے ہیں (چھ مفت ہیں)۔"
       ],
-      "vi": [
-        "Đã cập nhật mô tả danh sách cửa hàng trên tất cả ngôn ngữ."
+      "ja": [
+        "IAP修正 — Playがロック解除を取り消せるようになりました。",
+        "アプリ内アップデート改善 — 再起動前に確認、しつこく催促しない、最新性をチェック。",
+        "スキャナーレイアウト修正 — ズーム操作とバナーがナビゲーションバーの後ろに隠れなくなりました。",
+        "ローカライズ価格 — ロック解除バナーがハードコードの\\.99ではなく現地通貨を表示。",
+        "テキスト修正 — アプリがすべてのジェネレーターを有料と表示しなくなりました（6つは無料）。"
+      ],
+      "ko": [
+        "IAP 수정 — Play가 이제 잠금 해제를 취소할 수 있습니다.",
+        "인앱 업데이트 개선 — 재시작 전 확인, 잔소리 중단, 최신성 확인.",
+        "스캐너 레이아웃 수정 — 줌 컨트롤과 배너가 더 이상 내비게이션 바 뒤에 숨지 않습니다.",
+        "현지화 가격 — 잠금 해제 배너가 하드코딩된 \\.99 대신 현지 통화를 표시합니다.",
+        "텍스트 수정 — 앱이 더 이상 모든 생성기가 유료라고 주장하지 않습니다 (6개는 무료)."
       ],
       "zh": [
-        "已更新所有语言的商店列表描述。"
+        "IAP修复 — Play现在可以撤销解锁，而不仅仅是授予。",
+        "应用内更新改进 — 重启前确认，停止唠叨，检查更新状态。",
+        "扫描器布局修复 — 缩放控件和横幅不再隐藏在导航栏后面。",
+        "本地化价格 — 解锁横幅现在显示您的本地货币，而非硬编码\\.99。",
+        "文本修复 — 应用不再声称所有生成器都是付费的（六个免费）。"
+      ],
+      "vi": [
+        "Sửa IAP — Play giờ có thể thu hồi mở khóa, không chỉ cấp.",
+        "Cải thiện cập nhật trong ứng dụng — hỏi trước khi khởi động lại, ngừng làm phiền, kiểm tra độ mới.",
+        "Sửa bố cục máy quét — điều khiển thu phóng và banner không còn bị ẩn sau thanh điều hướng.",
+        "Giá địa phương hóa — banner mở khóa giờ hiển thị tiền tệ địa phương, không phải \\.99 cứng.",
+        "Sửa văn bản — ứng dụng không còn nói tất cả trình tạo đều trả phí (sáu cái miễn phí)."
+      ],
+      "th": [
+        "แก้ไข IAP — Play สามารถเพิกถอนการปลดล็อคได้แล้ว ไม่ใช่แค่อนุญาต",
+        "การอัปเดตในแอปที่ดีขึ้น — ถามก่อนรีสตาร์ท หยุดรบกวน ตรวจสอบความใหม่",
+        "แก้ไขเลย์เอาต์สแกนเนอร์ — ปุ่มซูมและแบนเนอร์ไม่ซ่อนอยู่หลังแถบนำทางอีกต่อไป",
+        "ราคาท้องถิ่น — แบนเนอร์ปลดล็อคแสดงสกุลเงินท้องถิ่นของคุณ ไม่ใช่ \\.99 ตายตัว",
+        "แก้ไขข้อความ — แอปไม่อ้างว่าเครื่องสร้างทั้งหมดต้องเสียเงินอีกต่อไป (หกอันฟรี)"
+      ],
+      "id": [
+        "Perbaikan IAP — Play sekarang dapat mencabut buka kunci, bukan hanya memberikannya.",
+        "Peningkatan pembaruan dalam aplikasi — meminta sebelum memulai ulang, berhenti mengganggu, memeriksa kebaruan.",
+        "Perbaikan tata letak pemindai — kontrol zoom dan spanduk tidak lagi tersembunyi di belakang bilah navigasi.",
+        "Harga terlokalisasi — spanduk buka kunci sekarang menampilkan mata uang lokal Anda, bukan \\.99 tetap.",
+        "Perbaikan teks — aplikasi tidak lagi mengklaim semua generator berbayar (enam gratis)."
       ]
     },
     {
