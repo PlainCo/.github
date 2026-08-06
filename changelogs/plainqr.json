@@ -1,6 +1,97 @@
 {
   "versions": [
     {
+      "version": "0.1.1+224",
+      "en": [
+        "Gallery scan reads any photo — zoom to frame",
+        "Rate us in app. Add PlainQR tile to Quick Settings."
+      ],
+      "ar": [
+        "المسح من المعرض يقرأ أي صورة — تكبير وتأطير",
+        "قيّمنا. أضف بلاطة PlainQR للإعدادات السريعة."
+      ],
+      "bn": [
+        "গ্যালারি স্ক্যান যেকোনো ছবি পড়ে — জুম করে ফ্রেম",
+        "রেট করুন। কুইক সেটিংসে PlainQR টাইল যোগ করুন।"
+      ],
+      "de": [
+        "Galerie-Scan liest jedes Foto — Zoomen und einrahmen",
+        "Bewerten Sie uns. PlainQR-Kachel für Schnelleinst."
+      ],
+      "es": [
+        "Escaneo de galería lee cualquier foto — zoom y encuadre",
+        "Califícanos. Añade mosaico PlainQR a Ajustes rápidos."
+      ],
+      "fa": [
+        "اسکن گالری هر عکسی را می‌خواند — زوم و قاب‌بندی",
+        "امتیاز دهید. کاشی PlainQR به تنظیمات سریع اضافه کنید."
+      ],
+      "fr": [
+        "Scan galerie lit toute photo — zoomez et cadrez",
+        "Notez-nous. Ajoutez la tuile PlainQR aux param. rapides."
+      ],
+      "hi": [
+        "गैलरी स्कैन किसी भी फोटो को पढ़ता है — ज़ूम और फ्रेम",
+        "रेट करें। क्विक सेटिंग्स में PlainQR टाइल जोड़ें।"
+      ],
+      "id": [
+        "Pindai galeri baca foto apa pun — zoom dan bingkai",
+        "Beri nilai. Tambahkan tile PlainQR ke Pengaturan Cepat."
+      ],
+      "it": [
+        "Scansione galleria legge qualsiasi foto — zoom e inquadra",
+        "Valutaci. Aggiungi tile PlainQR a Impostazioni rapide."
+      ],
+      "ja": [
+        "ギャラリースキャンが写真を読み取り — ズームして枠取り",
+        "評価してください。クイック設定にPlainQRタイルを追加。"
+      ],
+      "ko": [
+        "갤러리 스캔으로 모든 사진 읽기 — 확대 및 프레임",
+        "평가하기. 빠른 설정에 PlainQR 타일을 추가하세요."
+      ],
+      "nl": [
+        "Galerijscan leest elke foto — zoomen en kadreren",
+        "Beoordeel ons. PlainQR-tegel voor Snelle instellingen."
+      ],
+      "pl": [
+        "Skan galerii odczytuje każde zdjęcie — zoom i kadrowanie",
+        "Oceń nas. Dodaj kafelek PlainQR do Szybkich ustawień."
+      ],
+      "pt": [
+        "Scanner da galeria lê qualquer foto — zoom e enquadre",
+        "Avalie-nos. Adicione o tile PlainQR às Config. rápidas."
+      ],
+      "ro": [
+        "Scanare galerie citește orice fotografie — zoom și încadrare",
+        "Evaluează-ne. Adaugă tile PlainQR în Setări rapide."
+      ],
+      "ru": [
+        "Сканирование из галереи читает любое фото — зум и кадр",
+        "Оцените нас. Добавьте плитку PlainQR в Быстрые настройки."
+      ],
+      "th": [
+        "สแกนจากแกลเลอรีอ่านรูปใดก็ได้ — ซูมและจัดกรอบ",
+        "ให้คะแนนเรา เพิ่มไทล์ PlainQR ในการตั้งค่าด่วน"
+      ],
+      "tr": [
+        "Galeri tarama her fotoğrafı okur — yakınlaştır ve çerçevele",
+        "Değerlendirin. Hızlı Ayarlara PlainQR kutucuğu ekleyin."
+      ],
+      "ur": [
+        "گیلری اسکین کسی بھی تصویر کو پڑھتا ہے — زوم اور فریم",
+        "ریٹ کریں۔ کوئک سیٹنگز میں PlainQR ٹائل شامل کریں۔"
+      ],
+      "vi": [
+        "Quét thư viện đọc mọi ảnh — thu phóng và căn khung",
+        "Đánh giá. Thêm ô PlainQR vào Cài đặt nhanh."
+      ],
+      "zh": [
+        "图库扫描可读取任何照片 — 缩放并框选",
+        "给我们评分。将PlainQR磁贴添加到快速设置。"
+      ]
+    },
+    {
       "version": "0.0.4+195",
       "en": [
         "Bug fix: Zoom no longer switches from the main camera to the wide lens on multi-camera phones.",
